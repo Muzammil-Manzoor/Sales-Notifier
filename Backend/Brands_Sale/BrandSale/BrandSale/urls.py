@@ -30,11 +30,19 @@ router.register('productapi',product_view.productViewSet,basename='product')
 router.register('brandapi',product_view.brandViewSet,basename='brand')
 
 router.register('product_typeapi',product_view.product_typeViewSet,basename='product_type')
+
+router.register('product_ratingapi',product_view.user_ratingViewSet,basename='product_rating')
+
 router.register('users',UserAccount.UserAccountViewSet,basename='UserAccount')
 
 #notifictaion
 router.register('subscribeapi',product_view.sale_notificationViewSet,basename='sale_notification')
 
+#bookmark
+router.register('bookmarkapi',product_view.bookmarkViewSet,basename='bookmark')
+
+#recommend items
+router.register('recommended_itemsapi',product_view.recommended_itemViewSet,basename='recommended_item')
 
 
 urlpatterns = [

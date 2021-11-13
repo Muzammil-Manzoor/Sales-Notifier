@@ -14,9 +14,11 @@ class KhaadiSpider(scrapy.Spider):
 
     # allowed_domains = ['https://pk.khaadi.com/sale.html']
     start_urls = [
-                    'https://pk.khaadi.com/sale/ready-to-wear.html?p=1',
+                    # 'https://pk.khaadi.com/sale/ready-to-wear.html?p=1',
                     'https://pk.khaadi.com/sale/unstitched.html?p=1',
                     'https://pk.khaadi.com/sale/accessories.html'
+
+                    
                    
     ]
 
@@ -44,28 +46,36 @@ class KhaadiSpider(scrapy.Spider):
                 
             #category_name ='accessories'
             a=quotes.xpath('//*[contains(concat( " ", @class, " " ), concat( " ", "category3445", " " ))]//strong/text()').get()
-            
+            print('*******************************')
+            print(a)
             #for accesories
-            b=quotes.xpath('//*[contains(concat( " ", @class, " " ), concat( " ", "catestronggory1395", " " ))]/text()').get()
-
+            b=quotes.xpath('//*[contains(concat( " ", @class, " " ), concat( " ", "category1395", " " ))]//strong/text()').get()
+            print(b)   
             #for unstitched
-           # //*[contains(concat( " ", @class, " " ), concat( " ", "category1390", " " ))]//strong
             c=quotes.xpath('//*[contains(concat( " ", @class, " " ), concat( " ", "category1390", " " ))]//strong/text()').get()
+            print(c)
             
             if a=='Ready to wear' and b==None and c==None:
                 category_name='kameezshalwar_stitched'
                 category_id=4
-            elif c=='Unstitched' and a==None and b==None:
-                category_name='kameezshalwar_unstitched' 
-                category_id=5
-            elif b==None and a==None and b==None:
+            elif a==None and b=='Accessories' and c==None:
                 category_name='accessories'
                 category_id=10
+            else:
+                category_name='kameezshalwar_unstitched' 
+                category_id=5
+            
+
             sale_price=quotes.css('.special-price .price::text').get()
-            price=quotes.css('.sly-old-price .price::text').get()  
+
+            sale_price=sale_price[4:].replace(',', '')
+
+            price=quotes.css('.sly-old-price .price::text').get() 
+            price=price[4:].replace(',', '')
+            
             product_link=quotes.css('a.product-item-link::attr(href)').get() 
             image_link=quotes.css('.product-image-photo::attr(data-src)').get()
-            image_link2=quotes.css('.hover_image::attr(src)').get()
+            image_link2=quotes.css('.hover_image::attr(data-src)').get()
             if image_link2==None:
                 image_link2=image_link
             
@@ -134,7 +144,7 @@ class KhaadiSpider(scrapy.Spider):
             items['image_link']=image_link
             items['image_link2']=image_link2
             items['date']=datee
-            items['rating']='Good'
+            items['rating']=5
             items['status']='avb'
 
             items['brand_id']=1
@@ -149,16 +159,16 @@ class KhaadiSpider(scrapy.Spider):
             
             next_page='https://pk.khaadi.com/sale/ready-to-wear.html?p='+ str(KhaadiSpider.page_number)
 
-            if KhaadiSpider.page_number <5:
+            if KhaadiSpider.page_number <8:
                 KhaadiSpider.page_number +=1
                 yield response.follow(next_page,callback=self.parse)
 
 
         if category_name=='kameezshalwar_unstitched':
             
-            next_page='https://pk.khaadi.com/sale/unstitched.html?p='+ str(KhaadiSpider.page_number)
+            next_page='https://pk.khaadi.com/sale/unstitched.html?p='+ str(KhaadiSpider.page_number2)
 
-            if KhaadiSpider.page_number2 <12:
+            if KhaadiSpider.page_number2 <8:
                 KhaadiSpider.page_number2 +=1
                 yield response.follow(next_page,callback=self.parse)
 

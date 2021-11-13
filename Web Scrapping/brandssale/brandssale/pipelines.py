@@ -44,7 +44,7 @@ class BrandssalePipeline:
         return item
 
     def store_db(self,item):
-        self.curr.execute(""" insert into product(brand_name, gender_category,category_name,title,price,sale_price,product_link,image_link,image_link2,datee,rating,status,brand_id,category_id,gender_id) values(%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s)""",
+        self.curr.execute(""" insert into product(brand_name, gender_category,category_name,title,price,sale_price,product_link,image_link,image_link2,datee,rating,status,brand_id,category_id,gender_id,overview) values(%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s)""",
         (
             item['brand_name'],
             item['gender_category'],
@@ -62,6 +62,7 @@ class BrandssalePipeline:
             item['brand_id'],
             item['category_id'],
             item['gender_id'],
+            item['overview']
             
         ))
         self.conn.commit()

@@ -40,13 +40,16 @@ class product(models.Model):
     gender_category=models.CharField(max_length=50,blank=True)
     category_name=models.CharField(max_length=50,blank=True)
     title=models.CharField(max_length=50,blank=True)
-    price=models.CharField(max_length=50,blank=True)
-    sale_price=models.CharField(max_length=50,blank=True)
-    product_link=models.URLField(blank=True)   
-    image_link=models.URLField(blank=True)
-    image_link2=models.URLField(blank=True)
+    
+    price=models.IntegerField(blank=True,null=True)
+    sale_price= models.IntegerField(blank=True,null=True)
 
-    rating=models.CharField(max_length=50,blank=True)
+    overview=models.CharField(max_length=500,blank=True)
+    product_link=models.URLField(blank=True)   
+    image_link=models.CharField(max_length=500,blank=True)
+    image_link2=models.CharField(max_length=500,blank=True)
+
+    rating=models.IntegerField(blank=True)
     status=models.CharField(max_length=50,blank=True)
     datee= models.DateField()
     detail=models.CharField(max_length=50,null=True)
@@ -84,3 +87,90 @@ class sale_notification(models.Model):
         db_table='sale_notification'
     def __str__(self):
         return self.brand_name
+
+
+
+class user_rating(models.Model):
+    id = models.BigAutoField(primary_key=True)
+    product_id=models.IntegerField(blank=True,null=True)
+    user_name=models.CharField(max_length=100,blank=True)
+    rating=models.IntegerField(blank=True,null=True)
+    product_name=models.CharField(max_length=50,blank=True)
+    overview=models.CharField(max_length=500,blank=True)
+
+    brand_name=models.CharField(max_length=100,blank=True)
+    
+    price=models.IntegerField(blank=True,null=True)
+    sale_price= models.IntegerField(blank=True,null=True)
+
+    product_link=models.URLField(blank=True)   
+    image_link=models.CharField(max_length=500,blank=True)
+    image_link2=models.CharField(max_length=500,blank=True)
+
+    class Meta:
+        db_table='user_rating'
+    def __str__(self):
+        return self.product_id
+
+
+
+
+class bookmark(models.Model):
+    id= models.BigAutoField(primary_key=True)
+    product_id=models.IntegerField(blank=True,null=True)
+
+    brand_name=models.CharField(max_length=100,blank=True)
+
+    username=models.CharField(max_length=50,blank=True)
+    title=models.CharField(max_length=50,blank=True)
+    
+    price=models.IntegerField(blank=True,null=True)
+    sale_price= models.IntegerField(blank=True,null=True)
+
+    product_link=models.URLField(blank=True)   
+    image_link=models.CharField(max_length=500,blank=True)
+    image_link2=models.CharField(max_length=500,blank=True)
+
+    class Meta:
+        db_table='bookmark'
+    def __str__(self):
+        return self.product_id
+
+class recommended_item(models.Model):
+    id= models.BigAutoField(primary_key=True)
+    product_id=models.IntegerField(blank=True,null=True)
+
+    brand_name=models.CharField(max_length=100,blank=True)
+
+    username=models.CharField(max_length=50,blank=True)
+    title=models.CharField(max_length=50,blank=True)
+    
+    price=models.IntegerField(blank=True,null=True)
+    sale_price= models.IntegerField(blank=True,null=True)
+
+    product_link=models.URLField(blank=True)   
+    image_link=models.CharField(max_length=500,blank=True)
+    image_link2=models.CharField(max_length=500,blank=True)
+    rating=models.IntegerField(blank=True,null=True)
+    overview=models.CharField(max_length=500,blank=True)
+
+    brand=models.ForeignKey(brands, on_delete=models.CASCADE ,null=True)
+    gender=models.ForeignKey(gender, on_delete=models.CASCADE ,null=True)
+    category=models.ForeignKey(product_type, on_delete=models.CASCADE ,null=True)
+
+    gender_category=models.CharField(max_length=50,blank=True,null=True)
+    category_name=models.CharField(max_length=50,blank=True,null=True)
+    
+    status=models.CharField(max_length=50,blank=True,null=True)
+    datee= models.DateField(null=True)
+    detail=models.CharField(max_length=50,null=True)
+
+
+
+
+
+
+    class Meta:
+        db_table='recommended_item'
+    def __str__(self):
+        return self.product_id

@@ -1,0 +1,3168 @@
+<!doctype html>
+<html lang="en">
+    <head >
+        <script>
+    var BASE_URL = 'https://www.bareeze.com/pk/';
+    var require = {
+        "baseUrl": "https://www.bareeze.com/static/frontend/Webworks/bareeze_revamp/en_US"
+    };
+</script>
+        <meta charset="utf-8"/>
+<meta name="title" content="Shawls - Sale"/>
+<meta name="robots" content="INDEX,FOLLOW"/>
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no"/>
+<meta name="format-detection" content="telephone=no"/>
+<title>Shawls - Sale</title>
+<link  rel="stylesheet" type="text/css"  media="all" href="https://www.bareeze.com/static/frontend/Webworks/bareeze_revamp/en_US/mage/calendar.min.css" />
+<link  rel="stylesheet" type="text/css"  media="all" href="https://www.bareeze.com/static/frontend/Webworks/bareeze_revamp/en_US/css/bootstrap.min.css" />
+<link  rel="stylesheet" type="text/css"  media="all" href="https://www.bareeze.com/static/frontend/Webworks/bareeze_revamp/en_US/css/jquery.fancybox.min.css" />
+<link  rel="stylesheet" type="text/css"  media="all" href="https://www.bareeze.com/static/frontend/Webworks/bareeze_revamp/en_US/css/owl.theme.min.css" />
+<link  rel="stylesheet" type="text/css"  media="all" href="https://www.bareeze.com/static/frontend/Webworks/bareeze_revamp/en_US/css/main.min.css" />
+<link  rel="stylesheet" type="text/css"  media="all" href="https://www.bareeze.com/static/frontend/Webworks/bareeze_revamp/en_US/Lof_All/css/fix_magento2.min.css" />
+<link  rel="stylesheet" type="text/css"  media="all" href="https://www.bareeze.com/static/frontend/Webworks/bareeze_revamp/en_US/Mageplaza_Core/css/owl.carousel.min.css" />
+<link  rel="stylesheet" type="text/css"  media="all" href="https://www.bareeze.com/static/frontend/Webworks/bareeze_revamp/en_US/Mageplaza_Core/css/owl.theme.min.css" />
+<link  rel="stylesheet" type="text/css"  media="print" href="https://www.bareeze.com/static/frontend/Webworks/bareeze_revamp/en_US/css/print.min.css" />
+<script  type="text/javascript"  src="https://www.bareeze.com/static/frontend/Webworks/bareeze_revamp/en_US/requirejs/require.min.js"></script>
+<script  type="text/javascript"  src="https://www.bareeze.com/static/frontend/Webworks/bareeze_revamp/en_US/requirejs-min-resolver.min.js"></script>
+<script  type="text/javascript"  src="https://www.bareeze.com/static/frontend/Webworks/bareeze_revamp/en_US/mage/requirejs/mixins.min.js"></script>
+<script  type="text/javascript"  src="https://www.bareeze.com/static/frontend/Webworks/bareeze_revamp/en_US/requirejs-config.min.js"></script>
+<script  type="text/javascript"  src="https://www.bareeze.com/static/frontend/Webworks/bareeze_revamp/en_US/mage/polyfill.min.js"></script>
+<script  type="text/javascript"  src="https://www.bareeze.com/static/frontend/Webworks/bareeze_revamp/en_US/js/jquery.main.min.js"></script>
+<script  type="text/javascript"  src="https://www.bareeze.com/static/frontend/Webworks/bareeze_revamp/en_US/jquery.min.js"></script>
+<script  type="text/javascript"  src="https://www.bareeze.com/static/frontend/Webworks/bareeze_revamp/en_US/Mageplaza_LazyLoading/js/lib/jquery.lazy.min.js"></script>
+<link rel="preload" as="font" crossorigin="anonymous" href="https://www.bareeze.com/static/frontend/Webworks/bareeze_revamp/en_US/fonts/opensans/light/opensans-300.woff2" />
+<link rel="preload" as="font" crossorigin="anonymous" href="https://www.bareeze.com/static/frontend/Webworks/bareeze_revamp/en_US/fonts/opensans/regular/opensans-400.woff2" />
+<link rel="preload" as="font" crossorigin="anonymous" href="https://www.bareeze.com/static/frontend/Webworks/bareeze_revamp/en_US/fonts/opensans/semibold/opensans-600.woff2" />
+<link rel="preload" as="font" crossorigin="anonymous" href="https://www.bareeze.com/static/frontend/Webworks/bareeze_revamp/en_US/fonts/opensans/bold/opensans-700.woff2" />
+<link rel="preload" as="font" crossorigin="anonymous" href="https://www.bareeze.com/static/frontend/Webworks/bareeze_revamp/en_US/fonts/Luma-Icons.woff2" />
+<link  rel="icon" type="image/x-icon" href="https://www.bareeze.com/media/favicon/default/Bareeze-favicon.png" />
+<link  rel="shortcut icon" type="image/x-icon" href="https://www.bareeze.com/media/favicon/default/Bareeze-favicon.png" />
+<link  rel="stylesheet" type="text/css"  media="all" href="https://www.bareeze.com/media/styles.css" />
+
+<!-- Start of  Zendesk Widget script -->
+
+<script id="ze-snippet" src="https://static.zdassets.com/ekr/snippet.js?key=e4c4927e-7818-4ce6-b3ec-b5cf46a2683d"> </script>
+
+<!-- End of  Zendesk Widget script -->
+
+<!-- Global site tag (gtag.js) - Google Ads: 856040015 --> <script async src="https://www.googletagmanager.com/gtag/js?id=AW-856040015"></script> <script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'AW-856040015'); </script>
+
+<!-- Hotjar Tracking Code for https://www.bareeze.com/pk/ -->
+
+<script>
+
+    (function(h,o,t,j,a,r){
+
+        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+
+        h._hjSettings={hjid:1642298,hjsv:6};
+
+        a=o.getElementsByTagName('head')[0];
+
+        r=o.createElement('script');r.async=1;
+
+        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+
+        a.appendChild(r);
+
+    })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+
+</script>
+
+                <script>
+        window.getWpCookie = function(name) {
+            match = document.cookie.match(new RegExp(name + '=([^;]+)'));
+            if (match) return decodeURIComponent(match[1].replace(/\+/g, ' ')) ;
+        };
+
+        window.dataLayer = window.dataLayer || [];
+                var dlObjects = [{"google_tag_params":{"ecomm_pagetype":"category","ecomm_category":"Sale\/Shawls"},"ecommerce":{"currencyCode":"PKR","impressions":[{"name":"Poshak Shawl","id":"11792","price":"1215.50","category":"Sale\/Shawls","list":"Sale\/Shawls","position":1},{"name":"Poshak Shawl","id":"11791","price":"1215.50","category":"Sale\/Shawls","list":"Sale\/Shawls","position":2},{"name":"Poshak Shawl","id":"11790","price":"1215.50","category":"Sale\/Shawls","list":"Sale\/Shawls","position":3},{"name":"Poshak Shawl","id":"11789","price":"1181.50","category":"Sale\/Shawls","list":"Sale\/Shawls","position":4},{"name":"Poshak Shawl","id":"11788","price":"1181.50","category":"Sale\/Shawls","list":"Sale\/Shawls","position":5},{"name":"Poshak Shawl","id":"11787","price":"1181.50","category":"Sale\/Shawls","list":"Sale\/Shawls","position":6},{"name":"Shawls Range-2","id":"10666","price":"992.00","category":"Sale\/Shawls","list":"Sale\/Shawls","position":7},{"name":"Shawls Range-2","id":"10665","price":"960.00","category":"Sale\/Shawls","list":"Sale\/Shawls","position":8},{"name":"Shawls Range-2","id":"10664","price":"960.00","category":"Sale\/Shawls","list":"Sale\/Shawls","position":9},{"name":"Shawls Range-2","id":"10663","price":"960.00","category":"Sale\/Shawls","list":"Sale\/Shawls","position":10},{"name":"Swiss Line Shawl","id":"10604","price":"1020.00","category":"Sale\/Shawls","list":"Sale\/Shawls","position":11},{"name":"Shawl","id":"10513","price":"1054.00","category":"Sale\/Shawls","list":"Sale\/Shawls","position":12}]},"event":"impression","eventCategory":"Ecommerce","eventAction":"Impression","eventLabel":"category Sale\/Shawls"}];
+        for (var i in dlObjects) {
+            window.dataLayer.push(dlObjects[i]);
+        }
+                var wpCookies = ['wp_customerId','wp_customerGroup'];
+        wpCookies.map(function(cookieName) {
+            var cookieValue = window.getWpCookie(cookieName);
+            if (cookieValue) {
+                var dlObject = {};
+                dlObject[cookieName.replace('wp_', '')] = cookieValue;
+                window.dataLayer.push(dlObject);
+            }
+        });
+    </script>
+
+    <!-- Google Tag Manager -->
+
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+
+})(window,document,'script','dataLayer','GTM-W46SX8W');</script>
+
+<!-- End Google Tag Manager -->
+
+
+
+
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-96777758-1"></script>
+
+<script>
+
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag(){dataLayer.push(arguments);}
+
+  gtag('js', new Date());
+
+
+
+  gtag('config', 'UA-96777758-1');
+
+</script><!-- BEGIN GOOGLE VERIFICATION TAG -->
+<!-- END GOOGLE VERIFICATION TAG -->
+<!-- BEGIN GTAG GLOBAL TAG -->
+<!-- END GTAG GLOBAL TAG -->
+<script type="text/javascript" src="" defer></script>
+    </head>
+    <body data-container="body"
+          data-mage-init='{"loaderAjax": {}, "loader": { "icon": "https://www.bareeze.com/static/frontend/Webworks/bareeze_revamp/en_US/images/loader-2.gif"}}'
+        class="page-with-filter page-products categorypath-sale-shawls category-shawls catalog-category-view page-layout-1column">
+        <!-- Google Tag Manager (noscript) -->
+
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W46SX8W"
+
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+<!-- End Google Tag Manager (noscript) -->
+
+<script type="text/x-magento-init">
+    {
+        "*": {
+            "mage/cookies": {
+                "expires": null,
+                "path": "\u002F",
+                "domain": ".www.bareeze.com",
+                "secure": false,
+                "lifetime": "3600"
+            }
+        }
+    }
+</script>
+    <noscript>
+        <div class="message global noscript">
+            <div class="content">
+                <p>
+                    <strong>JavaScript seems to be disabled in your browser.</strong>
+                    <span>For the best experience on our site, be sure to turn on Javascript in your browser.</span>
+                </p>
+            </div>
+        </div>
+    </noscript>
+
+<script>
+    window.cookiesConfig = window.cookiesConfig || {};
+    window.cookiesConfig.secure = true;
+</script>
+<script>
+    require.config({
+        map: {
+            '*': {
+                wysiwygAdapter: 'mage/adminhtml/wysiwyg/tiny_mce/tinymce4Adapter'
+            }
+        }
+    });
+</script>
+<!-- BEGIN GTAG CART SCRIPT -->
+<!-- END GTAG CART SCRIPT -->
+
+<script>
+
+    require([
+
+        'jquery'
+
+    ], function ($) {
+
+        $(document).ready(function () {
+
+            $('.mplazyload').lazy({
+
+                threshold: 500,
+
+                effect: "fadeIn",
+
+                effectTime: 1000,
+
+                afterLoad: function (e) {
+
+                    e.removeClass('mplazyload-blur');
+
+                    e.removeClass('mplazyload-icon');
+
+                    e.removeClass('mplazyload-cms');
+
+                }
+
+            });
+
+        });
+
+    });
+
+</script>
+
+
+
+<style>
+
+    img.mplazyload-icon {
+
+        width: 64px;
+
+        height: 64px;
+
+    }
+
+
+
+    img.mplazyload-cms {
+
+        padding-left: 45%;
+
+    }
+
+
+
+    img.mplazyload-blur {
+
+        transition: 0.3s filter linear;
+
+        -o-transition: 0.3s -o-filter linear;
+
+        -webkit-filter: blur(5px);
+
+        filter: blur(5px);
+
+    }
+
+</style>
+
+<div class="page-wrapper"><header class="page-header"><div class="panel wrapper"><div class="panel header"><ul class="header links"><!-- li class="authorization-link" data-label="">
+
+    <a         >
+
+            </a>
+
+</li --></ul></div><div class="header-top"><div class="header-top-area"><div class="container d-flex flex-wrap justify-content-center justify-content-sm-end">
+
+<ul class="top-header-list list-unstyled d-flex flex-wrap">
+
+<li class="d-none d-md-block"><a href="/contact-us">Help</a></li>
+
+<li class="d-none d-md-block"><a href="https://www.tcsexpress.com/tracking">Track Your Order</a></li>
+
+<li><a href="tel:+92-42-32500955">+92-42-32500955</a></li>
+
+</ul>
+
+</div></div></div></div><div class="panel header"><div class="container"><div class="row align-items-center"><div class="col-2 col-lg-8 order-lg-2 position-static">
+
+<div class="sections nav-sections">
+    <div class="section-items nav-sections-items" role="tablist">
+        <div class="section-item-content nav-sections-item-content" id="store.menu">
+            <nav class="navigation desktop-navigation" data-action="navigation">
+                <ul data-mage-init='{"menu":{"responsive":true, "expanded":true, "position":{"my":"left top","at":"left bottom"}}}'>
+                    <li  class="level0 nav-1 category-item first level-top parent"><a href="https://www.bareeze.com/pk/new-in.html"  class="level-top" ><span>New In</span></a><div class="submenu-wrap"><ul class="level0 submenu"><li  class="level1 nav-1-1 category-item first"><a href="https://www.bareeze.com/pk/new-in/casuals.html" ><span>Casuals</span></a><div class='drop-down no-child'></div><div class='menu-image-holder'><img class='menu-image' src='https://www.bareeze.com/media/catalog/category/New-In_Menu_Image.jpg'/></div></li><li  class="level1 nav-1-2 category-item"><a href="https://www.bareeze.com/pk/new-in/formals.html" ><span>Formals</span></a><div class='drop-down no-child'></div></li><li  class="level1 nav-1-3 category-item"><a href="https://www.bareeze.com/pk/new-in/prints.html" ><span>Prints</span></a><div class='drop-down no-child'></div></li><li  class="level1 nav-1-4 category-item last"><a href="https://www.bareeze.com/pk/new-in/shawls.html" ><span>Shawls</span></a><div class='drop-down no-child'></div></li></ul></div></li><li  class="level0 nav-2 category-item level-top parent"><a href="https://www.bareeze.com/pk/casuals.html"  class="level-top" ><span>Casuals</span></a><div class="submenu-wrap"><ul class="level0 submenu"><li  class="level1 nav-2-1 category-item first parent"><a href="https://www.bareeze.com/pk/casuals/by-season.html" ><span>By Season</span></a><div class='drop-down'><div class='drop-holder'><div class="submenu-wrap"><ul class="level1 submenu"><li  class="level2 nav-2-1-1 category-item first"><a href="https://www.bareeze.com/pk/casuals/by-season/winter-21.html" ><span>Winter&#039;21</span></a><div class='drop-down no-child'></div></li><li  class="level2 nav-2-1-2 category-item"><a href="https://www.bareeze.com/pk/casuals/by-season/summer-21.html" ><span>Summer&#039;21</span></a><div class='drop-down no-child'></div></li><li  class="level2 nav-2-1-3 category-item last"><a href="https://www.bareeze.com/pk/casuals/by-season/previous-seasons.html" ><span>Previous Seasons</span></a><div class='drop-down no-child'></div></li></ul></div></div></div><div class='menu-image-holder'><img class='menu-image' src='https://www.bareeze.com/media/catalog/category/Menu-Images_Casual.jpg'/></div></li><li  class="level1 nav-2-2 category-item parent"><a href="https://www.bareeze.com/pk/casuals/by-category.html" ><span>By Category</span></a><div class='drop-down'><div class='drop-holder'><div class="submenu-wrap"><ul class="level1 submenu"><li  class="level2 nav-2-2-1 category-item first"><a href="https://www.bareeze.com/pk/casuals/by-category/printed.html" ><span>Printed</span></a><div class='drop-down no-child'></div></li><li  class="level2 nav-2-2-2 category-item last"><a href="https://www.bareeze.com/pk/casuals/by-category/embroidered.html" ><span>Embroidered</span></a><div class='drop-down no-child'></div></li></ul></div></div></div></li><li  class="level1 nav-2-3 category-item last parent"><a href="https://www.bareeze.com/pk/casuals/by-fabric.html" ><span>By Fabric</span></a><div class='drop-down'><div class='drop-holder'><div class="submenu-wrap"><ul class="level1 submenu"><li  class="level2 nav-2-3-1 category-item first"><a href="https://www.bareeze.com/pk/casuals/by-fabric/linen.html" ><span>Linen</span></a><div class='drop-down no-child'></div></li><li  class="level2 nav-2-3-2 category-item"><a href="https://www.bareeze.com/pk/casuals/by-fabric/karandi.html" ><span>Karandi</span></a><div class='drop-down no-child'></div></li><li  class="level2 nav-2-3-3 category-item"><a href="https://www.bareeze.com/pk/casuals/by-fabric/khaddar.html" ><span>Khaddar</span></a><div class='drop-down no-child'></div></li><li  class="level2 nav-2-3-4 category-item"><a href="https://www.bareeze.com/pk/casuals/by-fabric/lawn.html" ><span>Lawn</span></a><div class='drop-down no-child'></div></li><li  class="level2 nav-2-3-5 category-item"><a href="https://www.bareeze.com/pk/casuals/by-fabric/cotton.html" ><span>Cotton</span></a><div class='drop-down no-child'></div></li><li  class="level2 nav-2-3-6 category-item"><a href="https://www.bareeze.com/pk/casuals/by-fabric/chiffon.html" ><span>Chiffon</span></a><div class='drop-down no-child'></div></li><li  class="level2 nav-2-3-7 category-item last"><a href="https://www.bareeze.com/pk/casuals/by-fabric/cambric.html" ><span>Cambric</span></a><div class='drop-down no-child'></div></li></ul></div></div></div></li></ul></div></li><li  class="level0 nav-3 category-item level-top parent"><a href="https://www.bareeze.com/pk/formals.html"  class="level-top" ><span>Formals</span></a><div class="submenu-wrap"><ul class="level0 submenu"><li  class="level1 nav-3-1 category-item first last parent"><a href="https://www.bareeze.com/pk/formals/by-fabric.html" ><span>By Fabric</span></a><div class='drop-down'><div class='drop-holder'><div class="submenu-wrap"><ul class="level1 submenu"><li  class="level2 nav-3-1-1 category-item first"><a href="https://www.bareeze.com/pk/formals/by-fabric/chiffon.html" ><span>Chiffon</span></a><div class='drop-down no-child'></div><div class='menu-image-holder'><img class='menu-image' src='https://www.bareeze.com/media/catalog/category/Menu_Image_2_4_2_1.jpeg'/></div></li><li  class="level2 nav-3-1-2 category-item"><a href="https://www.bareeze.com/pk/formals/by-fabric/net.html" ><span>Net</span></a><div class='drop-down no-child'></div></li><li  class="level2 nav-3-1-3 category-item"><a href="https://www.bareeze.com/pk/formals/by-fabric/velvet.html" ><span>Velvet</span></a><div class='drop-down no-child'></div></li><li  class="level2 nav-3-1-4 category-item last"><a href="https://www.bareeze.com/pk/formals/by-fabric/cotton.html" ><span>Cotton</span></a><div class='drop-down no-child'></div></li></ul></div></div></div><div class='menu-image-holder'><img class='menu-image' src='https://www.bareeze.com/media/catalog/category/Main_Menu_Category_Image_-_Formals.jpg'/></div></li></ul></div></li><li  class="level0 nav-4 category-item level-top parent"><a href="https://www.bareeze.com/pk/prints.html"  class="level-top" ><span>Prints</span></a><div class="submenu-wrap"><ul class="level0 submenu"><li  class="level1 nav-4-1 category-item first"><a href="https://www.bareeze.com/pk/prints/printed.html" ><span>Printed</span></a><div class='drop-down no-child'></div><div class='menu-image-holder'><img class='menu-image' src='https://www.bareeze.com/media/catalog/category/Menu-Images_Prits.jpg'/></div></li><li  class="level1 nav-4-2 category-item last"><a href="https://www.bareeze.com/pk/prints/embroidered.html" ><span>Embroidered</span></a><div class='drop-down no-child'></div></li></ul></div></li><li  class="level0 nav-5 category-item level-top parent"><a href="https://www.bareeze.com/pk/shawls.html"  class="level-top" ><span>Shawls</span></a><div class="submenu-wrap"><ul class="level0 submenu"><li  class="level1 nav-5-1 category-item first"><a href="https://www.bareeze.com/pk/shawls/winter-shawls.html" ><span>Winter Shawls</span></a><div class='drop-down no-child'></div><div class='menu-image-holder'><img class='menu-image' src='https://www.bareeze.com/media/catalog/category/Main_Menu_Category_Image_-_Shawls.jpg'/></div></li><li  class="level1 nav-5-2 category-item last"><a href="https://www.bareeze.com/pk/shawls/summer-shawls.html" ><span>Summer Shawls</span></a><div class='drop-down no-child'></div></li></ul></div></li><li  class="level0 nav-6 category-item level-top parent"><a href="https://www.bareeze.com/pk/bottoms.html"  class="level-top" ><span>Bottoms</span></a><div class="submenu-wrap"><ul class="level0 submenu"><li  class="level1 nav-6-1 category-item first"><a href="https://www.bareeze.com/pk/bottoms/stitched.html" ><span>Stitched</span></a><div class='drop-down no-child'></div><div class='menu-image-holder'><img class='menu-image' src='https://www.bareeze.com/media/catalog/category/Menu-Images_Bottoms.jpg'/></div></li><li  class="level1 nav-6-2 category-item last"><a href="https://www.bareeze.com/pk/bottoms/unstitched.html" ><span>Unstitched</span></a><div class='drop-down no-child'></div></li></ul></div></li><li  class="level0 nav-7 category-item has-active level-top parent"><a href="https://www.bareeze.com/pk/sale.html"  class="level-top" ><span>Sale</span></a><div class="submenu-wrap"><ul class="level0 submenu"><li  class="level1 nav-7-1 category-item first"><a href="https://www.bareeze.com/pk/sale/casuals.html" ><span>Casuals</span></a><div class='drop-down no-child'></div><div class='menu-image-holder'><img class='menu-image' src='https://www.bareeze.com/media/catalog/category/Menu-Images_Sale.jpg'/></div></li><li  class="level1 nav-7-2 category-item"><a href="https://www.bareeze.com/pk/sale/formals.html" ><span>Formals</span></a><div class='drop-down no-child'></div></li><li  class="level1 nav-7-3 category-item"><a href="https://www.bareeze.com/pk/sale/print.html" ><span>Prints</span></a><div class='drop-down no-child'></div></li><li  class="level1 nav-7-4 category-item active"><a href="https://www.bareeze.com/pk/sale/shawls.html" ><span>Shawls</span></a><div class='drop-down no-child'></div></li><li  class="level1 nav-7-5 category-item last"><a href="https://www.bareeze.com/pk/sale/bottoms.html" ><span>Bottoms</span></a><div class='drop-down no-child'></div></li></ul></div></li><li  class="level0 nav-8 category-item last level-top parent"><a href="https://www.bareeze.com/pk/lookbook.html"  class="level-top" ><span>Lookbook</span></a><div class="submenu-wrap"><ul class="level0 submenu"><li  class="level1 nav-8-1 category-item first"><a href="https://www.bareeze.com/pk/lookbook/winter-collection-21.html" ><span>Winter Collection &#039;21</span></a><div class='drop-down no-child'></div></li><li  class="level1 nav-8-2 category-item"><a href="https://www.bareeze.com/pk/lookbook/eid-collection-ii-2021.html" ><span>Eid Collection II 2021</span></a><div class='drop-down no-child'></div></li><li  class="level1 nav-8-3 category-item last"><a href="https://www.bareeze.com/pk/lookbook/eid-collection-i-2021.html" ><span>Eid Collection I 2021</span></a><div class='drop-down no-child'></div></li></ul></div></li>                                    </ul>
+            </nav>
+
+            <nav id="mobile-navigation">
+                <span class="nav-opener"><span></span></span>
+                <div class="nav-drop">
+                    <ul>
+                        <li  class="level0 nav-1 category-item first level-top parent"><a href="https://www.bareeze.com/pk/new-in.html"  class="level-top" ><span class="">New In</span></a><span class="open-close"></span><div class="submenu-wrap"><ul class="level0 submenu"><li  class="level1 nav-1-1 category-item first"><a href="https://www.bareeze.com/pk/new-in/casuals.html" ><span>Casuals</span></a><div class='drop-down no-child'></div><div class='menu-image-holder'><img class='menu-image' src='https://www.bareeze.com/media/catalog/category/New-In_Menu_Image.jpg'/></div></li><li  class="level1 nav-1-2 category-item"><a href="https://www.bareeze.com/pk/new-in/formals.html" ><span>Formals</span></a><div class='drop-down no-child'></div></li><li  class="level1 nav-1-3 category-item"><a href="https://www.bareeze.com/pk/new-in/prints.html" ><span>Prints</span></a><div class='drop-down no-child'></div></li><li  class="level1 nav-1-4 category-item last"><a href="https://www.bareeze.com/pk/new-in/shawls.html" ><span>Shawls</span></a><div class='drop-down no-child'></div></li></ul></div></li><li  class="level0 nav-2 category-item level-top parent"><a href="https://www.bareeze.com/pk/casuals.html"  class="level-top" ><span class="">Casuals</span></a><span class="open-close"></span><div class="submenu-wrap"><ul class="level0 submenu"><li  class="level1 nav-2-1 category-item first parent"><a href="https://www.bareeze.com/pk/casuals/by-season.html" ><span>By Season</span></a><div class='drop-down'><div class='drop-holder'><div class="submenu-wrap"><ul class="level1 submenu"><li  class="level2 nav-2-1-1 category-item first"><a href="https://www.bareeze.com/pk/casuals/by-season/winter-21.html" ><span>Winter&#039;21</span></a><div class='drop-down no-child'></div></li><li  class="level2 nav-2-1-2 category-item"><a href="https://www.bareeze.com/pk/casuals/by-season/summer-21.html" ><span>Summer&#039;21</span></a><div class='drop-down no-child'></div></li><li  class="level2 nav-2-1-3 category-item last"><a href="https://www.bareeze.com/pk/casuals/by-season/previous-seasons.html" ><span>Previous Seasons</span></a><div class='drop-down no-child'></div></li></ul></div></div></div><div class='menu-image-holder'><img class='menu-image' src='https://www.bareeze.com/media/catalog/category/Menu-Images_Casual.jpg'/></div></li><li  class="level1 nav-2-2 category-item parent"><a href="https://www.bareeze.com/pk/casuals/by-category.html" ><span>By Category</span></a><div class='drop-down'><div class='drop-holder'><div class="submenu-wrap"><ul class="level1 submenu"><li  class="level2 nav-2-2-1 category-item first"><a href="https://www.bareeze.com/pk/casuals/by-category/printed.html" ><span>Printed</span></a><div class='drop-down no-child'></div></li><li  class="level2 nav-2-2-2 category-item last"><a href="https://www.bareeze.com/pk/casuals/by-category/embroidered.html" ><span>Embroidered</span></a><div class='drop-down no-child'></div></li></ul></div></div></div></li><li  class="level1 nav-2-3 category-item last parent"><a href="https://www.bareeze.com/pk/casuals/by-fabric.html" ><span>By Fabric</span></a><div class='drop-down'><div class='drop-holder'><div class="submenu-wrap"><ul class="level1 submenu"><li  class="level2 nav-2-3-1 category-item first"><a href="https://www.bareeze.com/pk/casuals/by-fabric/linen.html" ><span>Linen</span></a><div class='drop-down no-child'></div></li><li  class="level2 nav-2-3-2 category-item"><a href="https://www.bareeze.com/pk/casuals/by-fabric/karandi.html" ><span>Karandi</span></a><div class='drop-down no-child'></div></li><li  class="level2 nav-2-3-3 category-item"><a href="https://www.bareeze.com/pk/casuals/by-fabric/khaddar.html" ><span>Khaddar</span></a><div class='drop-down no-child'></div></li><li  class="level2 nav-2-3-4 category-item"><a href="https://www.bareeze.com/pk/casuals/by-fabric/lawn.html" ><span>Lawn</span></a><div class='drop-down no-child'></div></li><li  class="level2 nav-2-3-5 category-item"><a href="https://www.bareeze.com/pk/casuals/by-fabric/cotton.html" ><span>Cotton</span></a><div class='drop-down no-child'></div></li><li  class="level2 nav-2-3-6 category-item"><a href="https://www.bareeze.com/pk/casuals/by-fabric/chiffon.html" ><span>Chiffon</span></a><div class='drop-down no-child'></div></li><li  class="level2 nav-2-3-7 category-item last"><a href="https://www.bareeze.com/pk/casuals/by-fabric/cambric.html" ><span>Cambric</span></a><div class='drop-down no-child'></div></li></ul></div></div></div></li></ul></div></li><li  class="level0 nav-3 category-item level-top parent"><a href="https://www.bareeze.com/pk/formals.html"  class="level-top" ><span class="">Formals</span></a><span class="open-close"></span><div class="submenu-wrap"><ul class="level0 submenu"><li  class="level1 nav-3-1 category-item first last parent"><a href="https://www.bareeze.com/pk/formals/by-fabric.html" ><span>By Fabric</span></a><div class='drop-down'><div class='drop-holder'><div class="submenu-wrap"><ul class="level1 submenu"><li  class="level2 nav-3-1-1 category-item first"><a href="https://www.bareeze.com/pk/formals/by-fabric/chiffon.html" ><span>Chiffon</span></a><div class='drop-down no-child'></div><div class='menu-image-holder'><img class='menu-image' src='https://www.bareeze.com/media/catalog/category/Menu_Image_2_4_2_1.jpeg'/></div></li><li  class="level2 nav-3-1-2 category-item"><a href="https://www.bareeze.com/pk/formals/by-fabric/net.html" ><span>Net</span></a><div class='drop-down no-child'></div></li><li  class="level2 nav-3-1-3 category-item"><a href="https://www.bareeze.com/pk/formals/by-fabric/velvet.html" ><span>Velvet</span></a><div class='drop-down no-child'></div></li><li  class="level2 nav-3-1-4 category-item last"><a href="https://www.bareeze.com/pk/formals/by-fabric/cotton.html" ><span>Cotton</span></a><div class='drop-down no-child'></div></li></ul></div></div></div><div class='menu-image-holder'><img class='menu-image' src='https://www.bareeze.com/media/catalog/category/Main_Menu_Category_Image_-_Formals.jpg'/></div></li></ul></div></li><li  class="level0 nav-4 category-item level-top parent"><a href="https://www.bareeze.com/pk/prints.html"  class="level-top" ><span class="">Prints</span></a><span class="open-close"></span><div class="submenu-wrap"><ul class="level0 submenu"><li  class="level1 nav-4-1 category-item first"><a href="https://www.bareeze.com/pk/prints/printed.html" ><span>Printed</span></a><div class='drop-down no-child'></div><div class='menu-image-holder'><img class='menu-image' src='https://www.bareeze.com/media/catalog/category/Menu-Images_Prits.jpg'/></div></li><li  class="level1 nav-4-2 category-item last"><a href="https://www.bareeze.com/pk/prints/embroidered.html" ><span>Embroidered</span></a><div class='drop-down no-child'></div></li></ul></div></li><li  class="level0 nav-5 category-item level-top parent"><a href="https://www.bareeze.com/pk/shawls.html"  class="level-top" ><span class="">Shawls</span></a><span class="open-close"></span><div class="submenu-wrap"><ul class="level0 submenu"><li  class="level1 nav-5-1 category-item first"><a href="https://www.bareeze.com/pk/shawls/winter-shawls.html" ><span>Winter Shawls</span></a><div class='drop-down no-child'></div><div class='menu-image-holder'><img class='menu-image' src='https://www.bareeze.com/media/catalog/category/Main_Menu_Category_Image_-_Shawls.jpg'/></div></li><li  class="level1 nav-5-2 category-item last"><a href="https://www.bareeze.com/pk/shawls/summer-shawls.html" ><span>Summer Shawls</span></a><div class='drop-down no-child'></div></li></ul></div></li><li  class="level0 nav-6 category-item level-top parent"><a href="https://www.bareeze.com/pk/bottoms.html"  class="level-top" ><span class="">Bottoms</span></a><span class="open-close"></span><div class="submenu-wrap"><ul class="level0 submenu"><li  class="level1 nav-6-1 category-item first"><a href="https://www.bareeze.com/pk/bottoms/stitched.html" ><span>Stitched</span></a><div class='drop-down no-child'></div><div class='menu-image-holder'><img class='menu-image' src='https://www.bareeze.com/media/catalog/category/Menu-Images_Bottoms.jpg'/></div></li><li  class="level1 nav-6-2 category-item last"><a href="https://www.bareeze.com/pk/bottoms/unstitched.html" ><span>Unstitched</span></a><div class='drop-down no-child'></div></li></ul></div></li><li  class="level0 nav-7 category-item has-active level-top parent"><a href="https://www.bareeze.com/pk/sale.html"  class="level-top" ><span class="">Sale</span></a><span class="open-close"></span><div class="submenu-wrap"><ul class="level0 submenu"><li  class="level1 nav-7-1 category-item first"><a href="https://www.bareeze.com/pk/sale/casuals.html" ><span>Casuals</span></a><div class='drop-down no-child'></div><div class='menu-image-holder'><img class='menu-image' src='https://www.bareeze.com/media/catalog/category/Menu-Images_Sale.jpg'/></div></li><li  class="level1 nav-7-2 category-item"><a href="https://www.bareeze.com/pk/sale/formals.html" ><span>Formals</span></a><div class='drop-down no-child'></div></li><li  class="level1 nav-7-3 category-item"><a href="https://www.bareeze.com/pk/sale/print.html" ><span>Prints</span></a><div class='drop-down no-child'></div></li><li  class="level1 nav-7-4 category-item active"><a href="https://www.bareeze.com/pk/sale/shawls.html" ><span>Shawls</span></a><div class='drop-down no-child'></div></li><li  class="level1 nav-7-5 category-item last"><a href="https://www.bareeze.com/pk/sale/bottoms.html" ><span>Bottoms</span></a><div class='drop-down no-child'></div></li></ul></div></li><li  class="level0 nav-8 category-item last level-top parent"><a href="https://www.bareeze.com/pk/lookbook.html"  class="level-top" ><span class="">Lookbook</span></a><span class="open-close"></span><div class="submenu-wrap"><ul class="level0 submenu"><li  class="level1 nav-8-1 category-item first"><a href="https://www.bareeze.com/pk/lookbook/winter-collection-21.html" ><span>Winter Collection &#039;21</span></a><div class='drop-down no-child'></div></li><li  class="level1 nav-8-2 category-item"><a href="https://www.bareeze.com/pk/lookbook/eid-collection-ii-2021.html" ><span>Eid Collection II 2021</span></a><div class='drop-down no-child'></div></li><li  class="level1 nav-8-3 category-item last"><a href="https://www.bareeze.com/pk/lookbook/eid-collection-i-2021.html" ><span>Eid Collection I 2021</span></a><div class='drop-down no-child'></div></li></ul></div></li>                    </ul>
+                </div>
+            </nav>
+
+        </div>
+    </div>
+</div>
+</div><div class="col-5 col-lg-2 order-lg-1"><!--  -->
+
+<!-- <span data-action="toggle-nav" class="action nav-toggle"><span>Toggle Nav</span></span> -->
+
+<h1 class="logo"><a class="icon-bareeze-svg" href="https://www.bareeze.com/pk/" title=""> </a> </h1>
+
+<!-- <div class="se-pre-con"></div> --></div><div class="col-5 col-lg-2 order-lg-3 text-right position-static"><div class="header-block"><div class="header-right"><div class="panel header"><ul class="header links"><li><a href="https://www.bareeze.com/pk/customer/account/" class="icon-user" ></a></li></ul>
+<div data-block="minicart" class="minicart-wrapper">
+    <a class="action showcart" href="https://www.bareeze.com/pk/checkout/cart/"
+       data-bind="scope: 'minicart_content'">
+       <span class="icon-shopping-bag"></span>
+        <span class="text" style="display: none">My Cart</span>
+        <span class="counter qty empty"
+              data-bind="css: { empty: !!getCartParam('summary_count') == false }, blockLoader: isLoading">
+            <span class="counter-number"><!-- ko text: getCartParam('summary_count') --><!-- /ko --></span>
+            <span class="counter-label">
+            <!-- ko if: getCartParam('summary_count') -->
+                <!-- ko text: getCartParam('summary_count') --><!-- /ko -->
+                <!-- ko i18n: 'items' --><!-- /ko -->
+            <!-- /ko -->
+            </span>
+        </span>
+        
+    </a>
+            <div class="block block-minicart"
+             data-role="dropdownDialog"
+             data-mage-init='{"dropdownDialog":{
+                "appendTo":"[data-block=minicart]",
+                "triggerTarget":".showcart",
+                "timeout": "2000",
+                "closeOnMouseLeave": false,
+                "closeOnEscape": true,
+                "triggerClass":"active",
+                "parentClass":"active",
+                "buttons":[]}}'>
+            <div id="minicart-content-wrapper" data-bind="scope: 'minicart_content'">
+                <!-- ko template: getTemplate() --><!-- /ko -->
+            </div>
+                    </div>
+        <script>
+        window.checkout = {"shoppingCartUrl":"https:\/\/www.bareeze.com\/pk\/checkout\/cart\/","checkoutUrl":"https:\/\/www.bareeze.com\/pk\/checkout\/","updateItemQtyUrl":"https:\/\/www.bareeze.com\/pk\/checkout\/sidebar\/updateItemQty\/","removeItemUrl":"https:\/\/www.bareeze.com\/pk\/checkout\/sidebar\/removeItem\/","imageTemplate":"Magento_Catalog\/product\/image_with_borders","baseUrl":"https:\/\/www.bareeze.com\/pk\/","minicartMaxItemsVisible":5,"websiteId":"1","maxItemsToDisplay":10,"storeId":"1","customerLoginUrl":"https:\/\/www.bareeze.com\/pk\/customer\/account\/login\/referer\/aHR0cHM6Ly93d3cuYmFyZWV6ZS5jb20vcGsvc2FsZS9zaGF3bHMuaHRtbA%2C%2C\/","isRedirectRequired":false,"autocomplete":"off","captcha":{"user_login":{"isCaseSensitive":false,"imageHeight":50,"imageSrc":"","refreshUrl":"https:\/\/www.bareeze.com\/pk\/captcha\/refresh\/","isRequired":false,"timestamp":1636142770}}};
+    </script>
+    <script type="text/x-magento-init">
+    {
+        "[data-block='minicart']": {
+            "Magento_Ui/js/core/app": {"components":{"minicart_content":{"children":{"subtotal.container":{"children":{"subtotal":{"children":{"subtotal.totals":{"config":{"display_cart_subtotal_incl_tax":0,"display_cart_subtotal_excl_tax":1,"template":"Magento_Tax\/checkout\/minicart\/subtotal\/totals"},"children":{"subtotal.totals.msrp":{"component":"Magento_Msrp\/js\/view\/checkout\/minicart\/subtotal\/totals","config":{"displayArea":"minicart-subtotal-hidden","template":"Magento_Msrp\/checkout\/minicart\/subtotal\/totals"}}},"component":"Magento_Tax\/js\/view\/checkout\/minicart\/subtotal\/totals"}},"component":"uiComponent","config":{"template":"Magento_Checkout\/minicart\/subtotal"}}},"component":"uiComponent","config":{"displayArea":"subtotalContainer"}},"item.renderer":{"component":"uiComponent","config":{"displayArea":"defaultRenderer","template":"Magento_Checkout\/minicart\/item\/default"},"children":{"item.image":{"component":"Magento_Catalog\/js\/view\/image","config":{"template":"Magento_Catalog\/product\/image","displayArea":"itemImage"}},"checkout.cart.item.price.sidebar":{"component":"uiComponent","config":{"template":"Magento_Checkout\/minicart\/item\/price","displayArea":"priceSidebar"}}}},"extra_info":{"component":"uiComponent","config":{"displayArea":"extraInfo"}},"promotion":{"component":"uiComponent","config":{"displayArea":"promotion"}}},"config":{"itemRenderer":{"default":"defaultRenderer","simple":"defaultRenderer","virtual":"defaultRenderer"},"template":"Magento_Checkout\/minicart\/content"},"component":"Magento_Checkout\/js\/view\/minicart"}},"types":[]}        },
+        "*": {
+            "Magento_Ui/js/block-loader": "https://www.bareeze.com/static/frontend/Webworks/bareeze_revamp/en_US/images/loader-1.gif"
+        }
+    }
+    </script>
+</div>
+
+
+</div>
+
+<div class="header content">
+
+    <div class="open-close">
+
+        <span class="opener icon-search"></span>
+
+    <div class="block block-search slide">
+
+      <span class="opener icon-delete"></span>
+
+        <div class="block block-content">
+
+            <form class="form minisearch" id="search_mini_form" action="https://www.bareeze.com/pk/catalogsearch/result/" method="get">
+
+                <div class="field search">
+
+                    <label class="label" for="search" data-role="minisearch-label">
+
+                        <span>Search</span>
+
+                    </label>
+
+                    <div class="control">
+
+                        <input id="search"
+
+                               data-mage-init='{"quickSearch":{
+
+                                "formSelector":"#search_mini_form",
+
+                                "url":"https://www.bareeze.com/pk/search/ajax/suggest/",
+
+                                "destinationSelector":"#search_autocomplete"}
+
+                           }'
+
+                               type="text"
+
+                               name="q"
+
+                               value=""
+
+                               placeholder="What are you looking for?"
+
+                               class="input-text"
+
+                               maxlength="128"
+
+                               role="combobox"
+
+                               aria-haspopup="false"
+
+                               aria-autocomplete="both"
+
+                               autocomplete="on"/>
+
+                        <div id="search_autocomplete" class="search-autocomplete"></div>
+
+                                            </div>
+
+                </div>
+
+                <div class="actions" >
+
+                    <button type="submit"
+
+                            title="Search"
+
+                            class="action search icon-search">
+
+                        <span>Search</span>
+
+                    </button>
+
+                </div>
+
+            </form>
+
+        </div>
+
+    </div>
+
+
+
+
+
+
+
+
+
+    </div>
+
+
+
+</div>
+
+
+
+</div></div></div></div></div></div></header><main id="maincontent" class="page-main"><a id="contentarea" tabindex="-1"></a>
+<div class="page messages"><div data-placeholder="messages"></div>
+<div data-bind="scope: 'messages'">
+    <!-- ko if: cookieMessages && cookieMessages.length > 0 -->
+    <div role="alert" data-bind="foreach: { data: cookieMessages, as: 'message' }" class="messages">
+        <div data-bind="attr: {
+            class: 'message-' + message.type + ' ' + message.type + ' message',
+            'data-ui-id': 'message-' + message.type
+        }">
+            <div data-bind="html: message.text"></div>
+        </div>
+    </div>
+    <!-- /ko -->
+    <!-- ko if: messages().messages && messages().messages.length > 0 -->
+    <div role="alert" data-bind="foreach: { data: messages().messages, as: 'message' }" class="messages">
+        <div data-bind="attr: {
+            class: 'message-' + message.type + ' ' + message.type + ' message',
+            'data-ui-id': 'message-' + message.type
+        }">
+            <div data-bind="html: message.text"></div>
+        </div>
+    </div>
+    <!-- /ko -->
+</div>
+<script type="text/x-magento-init">
+    {
+        "*": {
+            "Magento_Ui/js/core/app": {
+                "components": {
+                        "messages": {
+                            "component": "Magento_Theme/js/view/messages"
+                        }
+                    }
+                }
+            }
+    }
+</script>
+</div><div class="category-view"><div class="container">
+
+
+
+</div></div><div class="container"><div class="breadcrumbs">
+    <ul class="items">
+                    <li class="item home">
+                            <a href="https://www.bareeze.com/pk/"
+                   title="Go&#x20;to&#x20;Home&#x20;Page">
+                    Home                </a>
+                        </li>
+                    <li class="item category74">
+                            <a href="https://www.bareeze.com/pk/sale.html"
+                   title="">
+                    Sale                </a>
+                        </li>
+                    <li class="item category78">
+                            <strong>Shawls</strong>
+                        </li>
+            </ul>
+</div>
+<div class="page-title-wrapper">
+    <h1 class="page-title"
+         id="page-title-heading"                     aria-labelledby="page-title-heading&#x20;toolbar-amount"
+        >
+        <span class="base" data-ui-id="page-title-wrapper" >Shawls</span>    </h1>
+    </div>
+<div class="column main">
+    <div class="block filter" id="layered-filter-block" data-mage-init='{"collapsible":{"openedState": "active", "collapsible": true, "active": false, "collateral": { "openedState": "filter-active", "element": "body" } }}'>
+                <div class="block-title filter-title" data-count="0">
+            <strong data-role="title">Filters</strong>
+        </div>
+        <div class="block-content filter-content">
+                <strong class="close">Close</strong>
+            
+                                                                                                                            <strong role="heading" aria-level="2" class="block-subtitle filter-subtitle">Filters</strong>
+                        <div class="filter-options" id="narrow-by-list" data-role="content" data-mage-init='{"accordion":{"openedState": "active", "collapsible": true, "active": false, "multipleCollapsible": false}}'>
+                                        <div data-role="collapsible" class="filter-options-item">
+                        <div data-role="title" class="filter-options-title">Price</div>
+                        <div data-role="content" class="filter-options-content">
+
+<ol class="items">
+
+            <li class="item">
+
+                            <a href="https://www.bareeze.com/pk/sale/shawls.html?price=-10000">
+
+                    <span class="price">PKR 0</span> - <span class="price">PKR 9,999</span>                                    </a>
+
+                    </li>
+
+            <li class="item">
+
+                            <a href="https://www.bareeze.com/pk/sale/shawls.html?price=10000-20000">
+
+                    <span class="price">PKR 10,000</span> - <span class="price">PKR 19,999</span>                                    </a>
+
+                    </li>
+
+            <li class="item">
+
+                            <a href="https://www.bareeze.com/pk/sale/shawls.html?price=20000-">
+
+                    <span class="price">PKR 20,000</span> and above                                    </a>
+
+                    </li>
+
+    </ol></div>
+                    </div>
+                                                                                                                <div data-role="collapsible" class="filter-options-item">
+                        <div data-role="title" class="filter-options-title">Color</div>
+                        <div data-role="content" class="filter-options-content">
+
+<ol class="items">
+
+            <li class="item">
+
+                            <a href="https://www.bareeze.com/pk/sale/shawls.html?color=5476">
+
+                    Black                                    </a>
+
+                    </li>
+
+            <li class="item">
+
+                            <a href="https://www.bareeze.com/pk/sale/shawls.html?color=5486">
+
+                    White                                    </a>
+
+                    </li>
+
+            <li class="item">
+
+                            <a href="https://www.bareeze.com/pk/sale/shawls.html?color=5642">
+
+                    Beige                                    </a>
+
+                    </li>
+
+            <li class="item">
+
+                            <a href="https://www.bareeze.com/pk/sale/shawls.html?color=5685">
+
+                    Navy-Blue                                    </a>
+
+                    </li>
+
+            <li class="item">
+
+                            <a href="https://www.bareeze.com/pk/sale/shawls.html?color=5686">
+
+                    Brown                                    </a>
+
+                    </li>
+
+    </ol></div>
+                    </div>
+                                                                                                                                                                                                                                                                                                                                                <div data-role="collapsible" class="filter-options-item">
+                        <div data-role="title" class="filter-options-title">Fabric</div>
+                        <div data-role="content" class="filter-options-content">
+
+<ol class="items">
+
+            <li class="item">
+
+                            <a href="https://www.bareeze.com/pk/sale/shawls.html?fabric=5647">
+
+                    Karandi                                    </a>
+
+                    </li>
+
+            <li class="item">
+
+                            <a href="https://www.bareeze.com/pk/sale/shawls.html?fabric=5649">
+
+                    Lawn                                    </a>
+
+                    </li>
+
+            <li class="item">
+
+                            <a href="https://www.bareeze.com/pk/sale/shawls.html?fabric=5691">
+
+                    Karandi Lawn                                    </a>
+
+                    </li>
+
+    </ol></div>
+                    </div>
+                                                                                    <div data-role="collapsible" class="filter-options-item">
+                        <div data-role="title" class="filter-options-title">Type</div>
+                        <div data-role="content" class="filter-options-content">
+
+<ol class="items">
+
+            <li class="item">
+
+                            <a href="https://www.bareeze.com/pk/sale/shawls.html?type=5655">
+
+                    Embroidered                                    </a>
+
+                    </li>
+
+    </ol></div>
+                    </div>
+                                                                                    <div data-role="collapsible" class="filter-options-item">
+                        <div data-role="title" class="filter-options-title">Season</div>
+                        <div data-role="content" class="filter-options-content">
+
+<ol class="items">
+
+            <li class="item">
+
+                            <a href="https://www.bareeze.com/pk/sale/shawls.html?season=5658">
+
+                    Winter-20                                    </a>
+
+                    </li>
+
+            <li class="item">
+
+                            <a href="https://www.bareeze.com/pk/sale/shawls.html?season=5659">
+
+                    Summer-20                                    </a>
+
+                    </li>
+
+            <li class="item">
+
+                            <a href="https://www.bareeze.com/pk/sale/shawls.html?season=5669">
+
+                    Summer-21                                    </a>
+
+                    </li>
+
+    </ol></div>
+                    </div>
+                                                        </div>
+                    </div>
+    </div>
+<input name="form_key" type="hidden" value="BEkOLoiDLRyfodW3" /><script type="text/x-magento-init">
+    {
+        "*": {
+            "Magento_Customer/js/section-config": {
+                "sections": {"stores\/store\/switch":"*","stores\/store\/switchrequest":"*","directory\/currency\/switch":"*","*":["messages"],"customer\/account\/logout":["recently_viewed_product","recently_compared_product","persistent"],"customer\/account\/loginpost":"*","customer\/account\/createpost":"*","customer\/account\/editpost":"*","customer\/ajax\/login":["checkout-data","cart","captcha"],"catalog\/product_compare\/add":["compare-products","gtm"],"catalog\/product_compare\/remove":["compare-products"],"catalog\/product_compare\/clear":["compare-products"],"sales\/guest\/reorder":["cart"],"sales\/order\/reorder":["cart"],"checkout\/cart\/add":["cart","directory-data","gtm"],"checkout\/cart\/delete":["cart","gtm"],"checkout\/cart\/updatepost":["cart"],"checkout\/cart\/updateitemoptions":["cart"],"checkout\/cart\/couponpost":["cart"],"checkout\/cart\/estimatepost":["cart"],"checkout\/cart\/estimateupdatepost":["cart"],"checkout\/onepage\/saveorder":["cart","checkout-data","last-ordered-items","checkout-fields"],"checkout\/sidebar\/removeitem":["cart","gtm"],"checkout\/sidebar\/updateitemqty":["cart"],"rest\/*\/v1\/carts\/*\/payment-information":["cart","last-ordered-items","instant-purchase","gtm"],"rest\/*\/v1\/guest-carts\/*\/payment-information":["cart","gtm"],"rest\/*\/v1\/guest-carts\/*\/selected-payment-method":["cart","checkout-data"],"rest\/*\/v1\/carts\/*\/selected-payment-method":["cart","checkout-data","instant-purchase"],"customer\/address\/*":["instant-purchase"],"customer\/account\/*":["instant-purchase"],"vault\/cards\/deleteaction":["instant-purchase"],"multishipping\/checkout\/overviewpost":["cart"],"authorizenet\/directpost_payment\/place":["cart","checkout-data"],"paypal\/express\/placeorder":["cart","checkout-data"],"paypal\/payflowexpress\/placeorder":["cart","checkout-data"],"paypal\/express\/onauthorization":["cart","checkout-data"],"persistent\/index\/unsetcookie":["persistent"],"review\/product\/post":["review"],"braintree\/paypal\/placeorder":["cart","checkout-data"],"wishlist\/index\/add":["wishlist","gtm"],"wishlist\/index\/remove":["wishlist"],"wishlist\/index\/updateitemoptions":["wishlist"],"wishlist\/index\/update":["wishlist"],"wishlist\/index\/cart":["wishlist","cart","gtm"],"wishlist\/index\/fromcart":["wishlist","cart"],"wishlist\/index\/allcart":["wishlist","cart","gtm"],"wishlist\/shared\/allcart":["wishlist","cart"],"wishlist\/shared\/cart":["cart"],"checkout\/cart\/configure":["gtm"],"rest\/*\/v1\/guest-carts\/*\/shipping-information":["gtm"],"rest\/*\/v1\/carts\/*\/shipping-information":["gtm"]},
+                "clientSideSections": ["checkout-data","cart-data","chatData"],
+                "baseUrls": ["https:\/\/www.bareeze.com\/pk\/"],
+                "sectionNames": ["messages","customer","compare-products","last-ordered-items","cart","directory-data","captcha","instant-purchase","persistent","review","wishlist","chatData","gtm","recently_viewed_product","recently_compared_product","product_data_storage","paypal-billing-agreement","checkout-fields","collection-point-result","pickup-location-result"]            }
+        }
+    }
+</script>
+<script type="text/x-magento-init">
+    {
+        "*": {
+            "Magento_Customer/js/customer-data": {
+                "sectionLoadUrl": "https\u003A\u002F\u002Fwww.bareeze.com\u002Fpk\u002Fcustomer\u002Fsection\u002Fload\u002F",
+                "expirableSectionLifetime": 60,
+                "expirableSectionNames": ["cart","persistent"],
+                "cookieLifeTime": "3600",
+                "updateSessionUrl": "https\u003A\u002F\u002Fwww.bareeze.com\u002Fpk\u002Fcustomer\u002Faccount\u002FupdateSession\u002F"
+            }
+        }
+    }
+</script>
+<script type="text/x-magento-init">
+    {
+        "*": {
+            "Magento_Customer/js/invalidation-processor": {
+                "invalidationRules": {
+                    "website-rule": {
+                        "Magento_Customer/js/invalidation-rules/website-rule": {
+                            "scopeConfig": {
+                                "websiteId": "1"
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+</script>
+<script type="text/x-magento-init">
+    {
+        "body": {
+            "pageCache": {"url":"https:\/\/www.bareeze.com\/pk\/page_cache\/block\/render\/id\/78\/","handles":["default","catalog_category_view","catalog_category_view_type_layered","catalog_category_view_type_layered_without_children","catalog_category_view_id_78"],"originalRequest":{"route":"catalog","controller":"category","action":"view","uri":"\/pk\/sale\/shawls.html"},"versionCookieName":"private_content_version"}        }
+    }
+</script>
+
+<div id="monkey_campaign" style="display:none;"
+     data-mage-init='{"campaigncatcher":{"checkCampaignUrl": "https://www.bareeze.com/pk/mailchimp/campaign/check/"}}'>
+</div>        <div class="toolbar-top">
+            <div class="toolbar toolbar-products" data-mage-init='{"productListToolbarForm":{"mode":"product_list_mode","direction":"product_list_dir","order":"product_list_order","limit":"product_list_limit","modeDefault":"grid","directionDefault":"asc","orderDefault":"position","limitDefault":"12","url":"https:\/\/www.bareeze.com\/pk\/sale\/shawls.html","formKey":"BEkOLoiDLRyfodW3","post":false}}'>
+
+                    <div class="modes">
+
+        </div>
+
+        
+
+        <p class="toolbar-amount" id="toolbar-amount">
+
+            Showing <span class="toolbar-number">1</span>-<span class="toolbar-number">12</span> of <span class="toolbar-number">29</span>    </p>
+
+
+
+        
+    
+        
+                <div class="pages">
+            <strong class="label pages-label" id="paging-label">Page</strong>
+            <ul class="items pages-items" aria-labelledby="paging-label">
+            
+            
+            
+                                                <li class="item current">
+                        <strong class="page">
+                            <span class="label">You&#039;re currently reading page</span>
+                            <span>1</span>
+                        </strong>
+                    </li>
+                                                                <li class="item">
+                        <a href="https://www.bareeze.com/pk/sale/shawls.html?p=2" class="page">
+                            <span class="label">Page</span>
+                            <span>2</span>
+                        </a>
+                    </li>
+                                                                <li class="item">
+                        <a href="https://www.bareeze.com/pk/sale/shawls.html?p=3" class="page">
+                            <span class="label">Page</span>
+                            <span>3</span>
+                        </a>
+                    </li>
+                            
+            
+            
+                            <li class="item pages-item-next">
+                                        <a class="action  next"
+                       href="https://www.bareeze.com/pk/sale/shawls.html?p=2"
+                       title="Next">
+                        <span class="label">Page</span>
+                        <span>Next</span>
+                    </a>
+                </li>
+                        </ul>
+        </div>
+        
+    
+    
+
+
+        <div class="field limiter">
+
+    <label class="label" for="limiter">
+
+        <span>Show</span>
+
+    </label>
+
+    <div class="control">
+
+        <select id="limiter" data-role="limiter" class="limiter-options">
+
+                            <option value="12"                    selected="selected">
+
+                    12                </option>
+
+                            <option value="24">
+
+                    24                </option>
+
+                            <option value="36">
+
+                    36                </option>
+
+                    </select>
+
+    </div>
+
+    <span class="limiter-text">per page</span>
+
+</div>
+
+
+
+                    <div class="toolbar-sorter sorter">
+
+    <label class="sorter-label" for="sorter">Sort By</label>
+
+    <select id="sorter" data-role="sorter" class="sorter-options">
+
+                    <option value="position"
+
+                                    selected="selected"
+
+                                >
+
+                Position            </option>
+
+                    <option value="name"
+
+                                >
+
+                Product Name            </option>
+
+                    <option value="price"
+
+                                >
+
+                Price            </option>
+
+            </select>
+
+            <a title="Set Descending Direction" href="#" class="action sorter-action sort-asc" data-role="direction-switcher" data-value="desc">
+
+            <span>Set Descending Direction</span>
+
+        </a>
+
+    </div>
+
+            </div>
+
+    </div>
+            <div class="products default-template wrapper grid products-grid">
+                <ol class="products list items product-items">
+                        
+                   
+                <li class="item product product-item">                <div class="product-item-info" data-container="product-grid">
+                                                            <a onclick="window.dataLayer.push({&quot;event&quot;:&quot;productClick&quot;,&quot;eventLabel&quot;:&quot;Poshak Shawl&quot;,&quot;ecommerce&quot;:{&quot;click&quot;:{&quot;actionField&quot;:{&quot;list&quot;:&quot;Sale\/Shawls&quot;},&quot;products&quot;:[{&quot;name&quot;:&quot;Poshak Shawl&quot;,&quot;id&quot;:&quot;11792&quot;,&quot;price&quot;:&quot;1215.50&quot;,&quot;category&quot;:&quot;Shawls&quot;,&quot;position&quot;:1}]}}, 'eventCallback': function() { document.location = 'https://www.bareeze.com/pk/ch3599-white-2000000112882.html';return false; }});"  href="https://www.bareeze.com/pk/ch3599-white-2000000112882.html" class="product photo product-item-photo" tabindex="-1">
+                                                <span class="product-image-wrapper-front">
+                            <img class="product-image-photo"
+                                 src="https://www.bareeze.com/media/catalog/product/c/h/ch3599_white_1__1_1.jpg"
+                                 alt=""/>
+                        </span>
+                         <span class="product-image-wrapper-back">
+                            <img class="product-image-photo"
+                                 src="https://www.bareeze.com/media/catalog/product/c/h/ch3599_white_2__1_1.jpg"
+                                 alt="" />
+                        </span> 
+                                              
+                        
+
+                                                    <div class="tag-lable sale stock unavailable discount-percent"><span>sale</span></div>
+                                                                </a>
+                    <div class="product details product-item-details">
+                                                <div class="detail-listing-area">
+                            <div class="swatch-area">
+                                                            </div>
+                            <div class="title-area">
+                                <strong class="product name product-item-name">
+                                    <a class="product-item-link"
+                                    href="https://www.bareeze.com/pk/ch3599-white-2000000112882.html">
+                                        Poshak Shawl                                    </a>
+                                </strong>
+                                <div class="price-box price-final_price" data-role="priceBox" data-product-id="11792" data-price-box="product-id-11792">
+
+
+
+
+
+<div class="price-box price-final_price grouped" data-role="priceBox" data-product-id="284">
+
+    <span class="price-container price-final_price tax weee">
+
+            <span id="product-price-284" data-price-amount="3038.75" data-price-type="finalPrice" class="price-wrapper ">
+
+<!--                <span class="price">--><!-- </span>-->
+
+                <span class="price">PKR 3,038.75 </span>
+
+                                <span class="price onsale" name="simple price">PKR 3,575.00</span>
+
+                        </span>
+
+    </span>
+
+</div></div>                            </div>
+                        </div>
+                                                <div class="product-item-inner">
+                            <div class="product actions product-item-actions">
+                                <div class="actions-primary">
+                                                                                                                    <form data-role="tocart-form" data-product-sku="CH3599-White-2000000112882" action="https://www.bareeze.com/pk/checkout/cart/add/uenc/aHR0cHM6Ly93d3cuYmFyZWV6ZS5jb20vcGsvc2FsZS9zaGF3bHMuaHRtbA%2C%2C/product/11792/" method="post">
+                                            <input type="hidden" name="product" value="11792">
+                                            <input type="hidden" name="uenc" value="aHR0cHM6Ly93d3cuYmFyZWV6ZS5jb20vcGsvY2hlY2tvdXQvY2FydC9hZGQvdWVuYy9hSFIwY0hNNkx5OTNkM2N1WW1GeVpXVjZaUzVqYjIwdmNHc3ZjMkZzWlM5emFHRjNiSE11YUhSdGJBJTJDJTJDL3Byb2R1Y3QvMTE3OTIv">
+                                            <input name="form_key" type="hidden" value="BEkOLoiDLRyfodW3" />                                            <button type="submit"
+                                                    title="Add to cart"
+                                                    class="action tocart primary">
+                                                <span>Add to cart</span>
+                                            </button>
+                                        </form>
+                                                                    </div>
+                                <!-- div data-role="add-to-links" class="actions-secondary">
+                                                                    </div -->
+                            </div>
+                                                    </div>
+                    </div>
+                </div>
+                            
+                   
+                </li><li class="item product product-item">                <div class="product-item-info" data-container="product-grid">
+                                                            <a onclick="window.dataLayer.push({&quot;event&quot;:&quot;productClick&quot;,&quot;eventLabel&quot;:&quot;Poshak Shawl&quot;,&quot;ecommerce&quot;:{&quot;click&quot;:{&quot;actionField&quot;:{&quot;list&quot;:&quot;Sale\/Shawls&quot;},&quot;products&quot;:[{&quot;name&quot;:&quot;Poshak Shawl&quot;,&quot;id&quot;:&quot;11791&quot;,&quot;price&quot;:&quot;1215.50&quot;,&quot;category&quot;:&quot;Shawls&quot;,&quot;position&quot;:2}]}}, 'eventCallback': function() { document.location = 'https://www.bareeze.com/pk/ch3599-brown-2000000112881.html';return false; }});"  href="https://www.bareeze.com/pk/ch3599-brown-2000000112881.html" class="product photo product-item-photo" tabindex="-1">
+                                                <span class="product-image-wrapper-front">
+                            <img class="product-image-photo"
+                                 src="https://www.bareeze.com/media/catalog/product/c/h/ch3599_brown_3__1.jpg"
+                                 alt=""/>
+                        </span>
+                         <span class="product-image-wrapper-back">
+                            <img class="product-image-photo"
+                                 src="https://www.bareeze.com/media/catalog/product/c/h/ch3599_brown_1__1.jpg"
+                                 alt="" />
+                        </span> 
+                                              
+                        
+
+                                                    <div class="tag-lable sale stock unavailable discount-percent"><span>sale</span></div>
+                                                                </a>
+                    <div class="product details product-item-details">
+                                                <div class="detail-listing-area">
+                            <div class="swatch-area">
+                                                            </div>
+                            <div class="title-area">
+                                <strong class="product name product-item-name">
+                                    <a class="product-item-link"
+                                    href="https://www.bareeze.com/pk/ch3599-brown-2000000112881.html">
+                                        Poshak Shawl                                    </a>
+                                </strong>
+                                <div class="price-box price-final_price" data-role="priceBox" data-product-id="11791" data-price-box="product-id-11791">
+
+
+
+
+
+<div class="price-box price-final_price grouped" data-role="priceBox" data-product-id="284">
+
+    <span class="price-container price-final_price tax weee">
+
+            <span id="product-price-284" data-price-amount="3038.75" data-price-type="finalPrice" class="price-wrapper ">
+
+<!--                <span class="price">--><!-- </span>-->
+
+                <span class="price">PKR 3,038.75 </span>
+
+                                <span class="price onsale" name="simple price">PKR 3,575.00</span>
+
+                        </span>
+
+    </span>
+
+</div></div>                            </div>
+                        </div>
+                                                <div class="product-item-inner">
+                            <div class="product actions product-item-actions">
+                                <div class="actions-primary">
+                                                                                                                    <form data-role="tocart-form" data-product-sku="CH3599-Brown-2000000112881" action="https://www.bareeze.com/pk/checkout/cart/add/uenc/aHR0cHM6Ly93d3cuYmFyZWV6ZS5jb20vcGsvc2FsZS9zaGF3bHMuaHRtbA%2C%2C/product/11791/" method="post">
+                                            <input type="hidden" name="product" value="11791">
+                                            <input type="hidden" name="uenc" value="aHR0cHM6Ly93d3cuYmFyZWV6ZS5jb20vcGsvY2hlY2tvdXQvY2FydC9hZGQvdWVuYy9hSFIwY0hNNkx5OTNkM2N1WW1GeVpXVjZaUzVqYjIwdmNHc3ZjMkZzWlM5emFHRjNiSE11YUhSdGJBJTJDJTJDL3Byb2R1Y3QvMTE3OTEv">
+                                            <input name="form_key" type="hidden" value="BEkOLoiDLRyfodW3" />                                            <button type="submit"
+                                                    title="Add to cart"
+                                                    class="action tocart primary">
+                                                <span>Add to cart</span>
+                                            </button>
+                                        </form>
+                                                                    </div>
+                                <!-- div data-role="add-to-links" class="actions-secondary">
+                                                                    </div -->
+                            </div>
+                                                    </div>
+                    </div>
+                </div>
+                            
+                   
+                </li><li class="item product product-item">                <div class="product-item-info" data-container="product-grid">
+                                                            <a onclick="window.dataLayer.push({&quot;event&quot;:&quot;productClick&quot;,&quot;eventLabel&quot;:&quot;Poshak Shawl&quot;,&quot;ecommerce&quot;:{&quot;click&quot;:{&quot;actionField&quot;:{&quot;list&quot;:&quot;Sale\/Shawls&quot;},&quot;products&quot;:[{&quot;name&quot;:&quot;Poshak Shawl&quot;,&quot;id&quot;:&quot;11790&quot;,&quot;price&quot;:&quot;1215.50&quot;,&quot;category&quot;:&quot;Shawls&quot;,&quot;position&quot;:3}]}}, 'eventCallback': function() { document.location = 'https://www.bareeze.com/pk/ch3599-beige-2000000112979.html';return false; }});"  href="https://www.bareeze.com/pk/ch3599-beige-2000000112979.html" class="product photo product-item-photo" tabindex="-1">
+                                                <span class="product-image-wrapper-front">
+                            <img class="product-image-photo"
+                                 src="https://www.bareeze.com/media/catalog/product/c/h/ch3599_beige_3__1_2.jpg"
+                                 alt=""/>
+                        </span>
+                         <span class="product-image-wrapper-back">
+                            <img class="product-image-photo"
+                                 src="https://www.bareeze.com/media/catalog/product/c/h/ch3599_beige_1__2.jpg"
+                                 alt="" />
+                        </span> 
+                                              
+                        
+
+                                                    <div class="tag-lable sale stock unavailable discount-percent"><span>sale</span></div>
+                                                                </a>
+                    <div class="product details product-item-details">
+                                                <div class="detail-listing-area">
+                            <div class="swatch-area">
+                                                            </div>
+                            <div class="title-area">
+                                <strong class="product name product-item-name">
+                                    <a class="product-item-link"
+                                    href="https://www.bareeze.com/pk/ch3599-beige-2000000112979.html">
+                                        Poshak Shawl                                    </a>
+                                </strong>
+                                <div class="price-box price-final_price" data-role="priceBox" data-product-id="11790" data-price-box="product-id-11790">
+
+
+
+
+
+<div class="price-box price-final_price grouped" data-role="priceBox" data-product-id="284">
+
+    <span class="price-container price-final_price tax weee">
+
+            <span id="product-price-284" data-price-amount="3038.75" data-price-type="finalPrice" class="price-wrapper ">
+
+<!--                <span class="price">--><!-- </span>-->
+
+                <span class="price">PKR 3,038.75 </span>
+
+                                <span class="price onsale" name="simple price">PKR 3,575.00</span>
+
+                        </span>
+
+    </span>
+
+</div></div>                            </div>
+                        </div>
+                                                <div class="product-item-inner">
+                            <div class="product actions product-item-actions">
+                                <div class="actions-primary">
+                                                                                                                    <form data-role="tocart-form" data-product-sku="CH3599-Beige-2000000112979" action="https://www.bareeze.com/pk/checkout/cart/add/uenc/aHR0cHM6Ly93d3cuYmFyZWV6ZS5jb20vcGsvc2FsZS9zaGF3bHMuaHRtbA%2C%2C/product/11790/" method="post">
+                                            <input type="hidden" name="product" value="11790">
+                                            <input type="hidden" name="uenc" value="aHR0cHM6Ly93d3cuYmFyZWV6ZS5jb20vcGsvY2hlY2tvdXQvY2FydC9hZGQvdWVuYy9hSFIwY0hNNkx5OTNkM2N1WW1GeVpXVjZaUzVqYjIwdmNHc3ZjMkZzWlM5emFHRjNiSE11YUhSdGJBJTJDJTJDL3Byb2R1Y3QvMTE3OTAv">
+                                            <input name="form_key" type="hidden" value="BEkOLoiDLRyfodW3" />                                            <button type="submit"
+                                                    title="Add to cart"
+                                                    class="action tocart primary">
+                                                <span>Add to cart</span>
+                                            </button>
+                                        </form>
+                                                                    </div>
+                                <!-- div data-role="add-to-links" class="actions-secondary">
+                                                                    </div -->
+                            </div>
+                                                    </div>
+                    </div>
+                </div>
+                            
+                   
+                </li><li class="item product product-item">                <div class="product-item-info" data-container="product-grid">
+                                                            <a onclick="window.dataLayer.push({&quot;event&quot;:&quot;productClick&quot;,&quot;eventLabel&quot;:&quot;Poshak Shawl&quot;,&quot;ecommerce&quot;:{&quot;click&quot;:{&quot;actionField&quot;:{&quot;list&quot;:&quot;Sale\/Shawls&quot;},&quot;products&quot;:[{&quot;name&quot;:&quot;Poshak Shawl&quot;,&quot;id&quot;:&quot;11789&quot;,&quot;price&quot;:&quot;1181.50&quot;,&quot;category&quot;:&quot;Shawls&quot;,&quot;position&quot;:4}]}}, 'eventCallback': function() { document.location = 'https://www.bareeze.com/pk/ch3598-white-2000000112880.html';return false; }});"  href="https://www.bareeze.com/pk/ch3598-white-2000000112880.html" class="product photo product-item-photo" tabindex="-1">
+                                                <span class="product-image-wrapper-front">
+                            <img class="product-image-photo"
+                                 src="https://www.bareeze.com/media/catalog/product/c/h/ch3598_white_3__1.jpg"
+                                 alt=""/>
+                        </span>
+                         <span class="product-image-wrapper-back">
+                            <img class="product-image-photo"
+                                 src="https://www.bareeze.com/media/catalog/product/c/h/ch3598_white_1__1.jpg"
+                                 alt="" />
+                        </span> 
+                                              
+                        
+
+                                                    <div class="tag-lable sale stock unavailable discount-percent"><span>sale</span></div>
+                                                                </a>
+                    <div class="product details product-item-details">
+                                                <div class="detail-listing-area">
+                            <div class="swatch-area">
+                                                            </div>
+                            <div class="title-area">
+                                <strong class="product name product-item-name">
+                                    <a class="product-item-link"
+                                    href="https://www.bareeze.com/pk/ch3598-white-2000000112880.html">
+                                        Poshak Shawl                                    </a>
+                                </strong>
+                                <div class="price-box price-final_price" data-role="priceBox" data-product-id="11789" data-price-box="product-id-11789">
+
+
+
+
+
+<div class="price-box price-final_price grouped" data-role="priceBox" data-product-id="284">
+
+    <span class="price-container price-final_price tax weee">
+
+            <span id="product-price-284" data-price-amount="2953.75" data-price-type="finalPrice" class="price-wrapper ">
+
+<!--                <span class="price">--><!-- </span>-->
+
+                <span class="price">PKR 2,953.75 </span>
+
+                                <span class="price onsale" name="simple price">PKR 3,475.00</span>
+
+                        </span>
+
+    </span>
+
+</div></div>                            </div>
+                        </div>
+                                                <div class="product-item-inner">
+                            <div class="product actions product-item-actions">
+                                <div class="actions-primary">
+                                                                                                                    <form data-role="tocart-form" data-product-sku="CH3598-White-2000000112880" action="https://www.bareeze.com/pk/checkout/cart/add/uenc/aHR0cHM6Ly93d3cuYmFyZWV6ZS5jb20vcGsvc2FsZS9zaGF3bHMuaHRtbA%2C%2C/product/11789/" method="post">
+                                            <input type="hidden" name="product" value="11789">
+                                            <input type="hidden" name="uenc" value="aHR0cHM6Ly93d3cuYmFyZWV6ZS5jb20vcGsvY2hlY2tvdXQvY2FydC9hZGQvdWVuYy9hSFIwY0hNNkx5OTNkM2N1WW1GeVpXVjZaUzVqYjIwdmNHc3ZjMkZzWlM5emFHRjNiSE11YUhSdGJBJTJDJTJDL3Byb2R1Y3QvMTE3ODkv">
+                                            <input name="form_key" type="hidden" value="BEkOLoiDLRyfodW3" />                                            <button type="submit"
+                                                    title="Add to cart"
+                                                    class="action tocart primary">
+                                                <span>Add to cart</span>
+                                            </button>
+                                        </form>
+                                                                    </div>
+                                <!-- div data-role="add-to-links" class="actions-secondary">
+                                                                    </div -->
+                            </div>
+                                                    </div>
+                    </div>
+                </div>
+                            
+                   
+                </li><li class="item product product-item">                <div class="product-item-info" data-container="product-grid">
+                                                            <a onclick="window.dataLayer.push({&quot;event&quot;:&quot;productClick&quot;,&quot;eventLabel&quot;:&quot;Poshak Shawl&quot;,&quot;ecommerce&quot;:{&quot;click&quot;:{&quot;actionField&quot;:{&quot;list&quot;:&quot;Sale\/Shawls&quot;},&quot;products&quot;:[{&quot;name&quot;:&quot;Poshak Shawl&quot;,&quot;id&quot;:&quot;11788&quot;,&quot;price&quot;:&quot;1181.50&quot;,&quot;category&quot;:&quot;Shawls&quot;,&quot;position&quot;:5}]}}, 'eventCallback': function() { document.location = 'https://www.bareeze.com/pk/ch3598-beige-2000000112978.html';return false; }});"  href="https://www.bareeze.com/pk/ch3598-beige-2000000112978.html" class="product photo product-item-photo" tabindex="-1">
+                                                <span class="product-image-wrapper-front">
+                            <img class="product-image-photo"
+                                 src="https://www.bareeze.com/media/catalog/product/c/h/ch3598_beige_3__2.jpg"
+                                 alt=""/>
+                        </span>
+                         <span class="product-image-wrapper-back">
+                            <img class="product-image-photo"
+                                 src="https://www.bareeze.com/media/catalog/product/c/h/ch3598_beige_1__2.jpg"
+                                 alt="" />
+                        </span> 
+                                              
+                        
+
+                                                    <div class="tag-lable sale stock unavailable discount-percent"><span>sale</span></div>
+                                                                </a>
+                    <div class="product details product-item-details">
+                                                <div class="detail-listing-area">
+                            <div class="swatch-area">
+                                                            </div>
+                            <div class="title-area">
+                                <strong class="product name product-item-name">
+                                    <a class="product-item-link"
+                                    href="https://www.bareeze.com/pk/ch3598-beige-2000000112978.html">
+                                        Poshak Shawl                                    </a>
+                                </strong>
+                                <div class="price-box price-final_price" data-role="priceBox" data-product-id="11788" data-price-box="product-id-11788">
+
+
+
+
+
+<div class="price-box price-final_price grouped" data-role="priceBox" data-product-id="284">
+
+    <span class="price-container price-final_price tax weee">
+
+            <span id="product-price-284" data-price-amount="2953.75" data-price-type="finalPrice" class="price-wrapper ">
+
+<!--                <span class="price">--><!-- </span>-->
+
+                <span class="price">PKR 2,953.75 </span>
+
+                                <span class="price onsale" name="simple price">PKR 3,475.00</span>
+
+                        </span>
+
+    </span>
+
+</div></div>                            </div>
+                        </div>
+                                                <div class="product-item-inner">
+                            <div class="product actions product-item-actions">
+                                <div class="actions-primary">
+                                                                                                                    <form data-role="tocart-form" data-product-sku="CH3598-Beige-2000000112978" action="https://www.bareeze.com/pk/checkout/cart/add/uenc/aHR0cHM6Ly93d3cuYmFyZWV6ZS5jb20vcGsvc2FsZS9zaGF3bHMuaHRtbA%2C%2C/product/11788/" method="post">
+                                            <input type="hidden" name="product" value="11788">
+                                            <input type="hidden" name="uenc" value="aHR0cHM6Ly93d3cuYmFyZWV6ZS5jb20vcGsvY2hlY2tvdXQvY2FydC9hZGQvdWVuYy9hSFIwY0hNNkx5OTNkM2N1WW1GeVpXVjZaUzVqYjIwdmNHc3ZjMkZzWlM5emFHRjNiSE11YUhSdGJBJTJDJTJDL3Byb2R1Y3QvMTE3ODgv">
+                                            <input name="form_key" type="hidden" value="BEkOLoiDLRyfodW3" />                                            <button type="submit"
+                                                    title="Add to cart"
+                                                    class="action tocart primary">
+                                                <span>Add to cart</span>
+                                            </button>
+                                        </form>
+                                                                    </div>
+                                <!-- div data-role="add-to-links" class="actions-secondary">
+                                                                    </div -->
+                            </div>
+                                                    </div>
+                    </div>
+                </div>
+                            
+                   
+                </li><li class="item product product-item">                <div class="product-item-info" data-container="product-grid">
+                                                            <a onclick="window.dataLayer.push({&quot;event&quot;:&quot;productClick&quot;,&quot;eventLabel&quot;:&quot;Poshak Shawl&quot;,&quot;ecommerce&quot;:{&quot;click&quot;:{&quot;actionField&quot;:{&quot;list&quot;:&quot;Sale\/Shawls&quot;},&quot;products&quot;:[{&quot;name&quot;:&quot;Poshak Shawl&quot;,&quot;id&quot;:&quot;11787&quot;,&quot;price&quot;:&quot;1181.50&quot;,&quot;category&quot;:&quot;Shawls&quot;,&quot;position&quot;:6}]}}, 'eventCallback': function() { document.location = 'https://www.bareeze.com/pk/ch3598-brown-2000000112879.html';return false; }});"  href="https://www.bareeze.com/pk/ch3598-brown-2000000112879.html" class="product photo product-item-photo" tabindex="-1">
+                                                <span class="product-image-wrapper-front">
+                            <img class="product-image-photo"
+                                 src="https://www.bareeze.com/media/catalog/product/c/h/ch3598_brown_3__1.jpg"
+                                 alt=""/>
+                        </span>
+                         <span class="product-image-wrapper-back">
+                            <img class="product-image-photo"
+                                 src="https://www.bareeze.com/media/catalog/product/c/h/ch3598_brown_1__1.jpg"
+                                 alt="" />
+                        </span> 
+                                              
+                        
+
+                                                    <div class="tag-lable sale stock unavailable discount-percent"><span>sale</span></div>
+                                                                </a>
+                    <div class="product details product-item-details">
+                                                <div class="detail-listing-area">
+                            <div class="swatch-area">
+                                                            </div>
+                            <div class="title-area">
+                                <strong class="product name product-item-name">
+                                    <a class="product-item-link"
+                                    href="https://www.bareeze.com/pk/ch3598-brown-2000000112879.html">
+                                        Poshak Shawl                                    </a>
+                                </strong>
+                                <div class="price-box price-final_price" data-role="priceBox" data-product-id="11787" data-price-box="product-id-11787">
+
+
+
+
+
+<div class="price-box price-final_price grouped" data-role="priceBox" data-product-id="284">
+
+    <span class="price-container price-final_price tax weee">
+
+            <span id="product-price-284" data-price-amount="2953.75" data-price-type="finalPrice" class="price-wrapper ">
+
+<!--                <span class="price">--><!-- </span>-->
+
+                <span class="price">PKR 2,953.75 </span>
+
+                                <span class="price onsale" name="simple price">PKR 3,475.00</span>
+
+                        </span>
+
+    </span>
+
+</div></div>                            </div>
+                        </div>
+                                                <div class="product-item-inner">
+                            <div class="product actions product-item-actions">
+                                <div class="actions-primary">
+                                                                                                                    <form data-role="tocart-form" data-product-sku="CH3598-Brown-2000000112879" action="https://www.bareeze.com/pk/checkout/cart/add/uenc/aHR0cHM6Ly93d3cuYmFyZWV6ZS5jb20vcGsvc2FsZS9zaGF3bHMuaHRtbA%2C%2C/product/11787/" method="post">
+                                            <input type="hidden" name="product" value="11787">
+                                            <input type="hidden" name="uenc" value="aHR0cHM6Ly93d3cuYmFyZWV6ZS5jb20vcGsvY2hlY2tvdXQvY2FydC9hZGQvdWVuYy9hSFIwY0hNNkx5OTNkM2N1WW1GeVpXVjZaUzVqYjIwdmNHc3ZjMkZzWlM5emFHRjNiSE11YUhSdGJBJTJDJTJDL3Byb2R1Y3QvMTE3ODcv">
+                                            <input name="form_key" type="hidden" value="BEkOLoiDLRyfodW3" />                                            <button type="submit"
+                                                    title="Add to cart"
+                                                    class="action tocart primary">
+                                                <span>Add to cart</span>
+                                            </button>
+                                        </form>
+                                                                    </div>
+                                <!-- div data-role="add-to-links" class="actions-secondary">
+                                                                    </div -->
+                            </div>
+                                                    </div>
+                    </div>
+                </div>
+                            
+                   
+                </li><li class="item product product-item">                <div class="product-item-info" data-container="product-grid">
+                                                            <a onclick="window.dataLayer.push({&quot;event&quot;:&quot;productClick&quot;,&quot;eventLabel&quot;:&quot;Shawls Range-2&quot;,&quot;ecommerce&quot;:{&quot;click&quot;:{&quot;actionField&quot;:{&quot;list&quot;:&quot;Sale\/Shawls&quot;},&quot;products&quot;:[{&quot;name&quot;:&quot;Shawls Range-2&quot;,&quot;id&quot;:&quot;10666&quot;,&quot;price&quot;:&quot;992.00&quot;,&quot;category&quot;:&quot;Shawls&quot;,&quot;position&quot;:7}]}}, 'eventCallback': function() { document.location = 'https://www.bareeze.com/pk/wr491-white-2000000095786.html';return false; }});"  href="https://www.bareeze.com/pk/wr491-white-2000000095786.html" class="product photo product-item-photo" tabindex="-1">
+                                                <span class="product-image-wrapper-front">
+                            <img class="product-image-photo"
+                                 src="https://www.bareeze.com/media/catalog/product/4/_/4_2_1_3.jpg"
+                                 alt=""/>
+                        </span>
+                         <span class="product-image-wrapper-back">
+                            <img class="product-image-photo"
+                                 src="https://www.bareeze.com/media/catalog/product/4/_/4_2__10.jpg"
+                                 alt="" />
+                        </span> 
+                                              
+                        
+
+                                                    <div class="tag-lable sale stock unavailable discount-percent"><span>sale</span></div>
+                                                                </a>
+                    <div class="product details product-item-details">
+                                                <div class="detail-listing-area">
+                            <div class="swatch-area">
+                                                            </div>
+                            <div class="title-area">
+                                <strong class="product name product-item-name">
+                                    <a class="product-item-link"
+                                    href="https://www.bareeze.com/pk/wr491-white-2000000095786.html">
+                                        Shawls Range-2                                    </a>
+                                </strong>
+                                <div class="price-box price-final_price" data-role="priceBox" data-product-id="10666" data-price-box="product-id-10666">
+
+
+
+
+
+<div class="price-box price-final_price grouped" data-role="priceBox" data-product-id="284">
+
+    <span class="price-container price-final_price tax weee">
+
+            <span id="product-price-284" data-price-amount="2480" data-price-type="finalPrice" class="price-wrapper ">
+
+<!--                <span class="price">--><!-- </span>-->
+
+                <span class="price">PKR 2,480.00 </span>
+
+                                <span class="price onsale" name="simple price">PKR 3,100.00</span>
+
+                        </span>
+
+    </span>
+
+</div></div>                            </div>
+                        </div>
+                                                <div class="product-item-inner">
+                            <div class="product actions product-item-actions">
+                                <div class="actions-primary">
+                                                                                                                    <form data-role="tocart-form" data-product-sku="WR491-White-2000000095786" action="https://www.bareeze.com/pk/checkout/cart/add/uenc/aHR0cHM6Ly93d3cuYmFyZWV6ZS5jb20vcGsvc2FsZS9zaGF3bHMuaHRtbA%2C%2C/product/10666/" method="post">
+                                            <input type="hidden" name="product" value="10666">
+                                            <input type="hidden" name="uenc" value="aHR0cHM6Ly93d3cuYmFyZWV6ZS5jb20vcGsvY2hlY2tvdXQvY2FydC9hZGQvdWVuYy9hSFIwY0hNNkx5OTNkM2N1WW1GeVpXVjZaUzVqYjIwdmNHc3ZjMkZzWlM5emFHRjNiSE11YUhSdGJBJTJDJTJDL3Byb2R1Y3QvMTA2NjYv">
+                                            <input name="form_key" type="hidden" value="BEkOLoiDLRyfodW3" />                                            <button type="submit"
+                                                    title="Add to cart"
+                                                    class="action tocart primary">
+                                                <span>Add to cart</span>
+                                            </button>
+                                        </form>
+                                                                    </div>
+                                <!-- div data-role="add-to-links" class="actions-secondary">
+                                                                    </div -->
+                            </div>
+                                                    </div>
+                    </div>
+                </div>
+                            
+                   
+                </li><li class="item product product-item">                <div class="product-item-info" data-container="product-grid">
+                                                            <a onclick="window.dataLayer.push({&quot;event&quot;:&quot;productClick&quot;,&quot;eventLabel&quot;:&quot;Shawls Range-2&quot;,&quot;ecommerce&quot;:{&quot;click&quot;:{&quot;actionField&quot;:{&quot;list&quot;:&quot;Sale\/Shawls&quot;},&quot;products&quot;:[{&quot;name&quot;:&quot;Shawls Range-2&quot;,&quot;id&quot;:&quot;10665&quot;,&quot;price&quot;:&quot;960.00&quot;,&quot;category&quot;:&quot;Shawls&quot;,&quot;position&quot;:8}]}}, 'eventCallback': function() { document.location = 'https://www.bareeze.com/pk/wr489-black-2000000096489.html';return false; }});"  href="https://www.bareeze.com/pk/wr489-black-2000000096489.html" class="product photo product-item-photo" tabindex="-1">
+                                                <span class="product-image-wrapper-front">
+                            <img class="product-image-photo"
+                                 src="https://www.bareeze.com/media/catalog/product/9/_/9_2_2.jpg"
+                                 alt=""/>
+                        </span>
+                         <span class="product-image-wrapper-back">
+                            <img class="product-image-photo"
+                                 src="https://www.bareeze.com/media/catalog/product/9/_/9_2__4.jpg"
+                                 alt="" />
+                        </span> 
+                                              
+                        
+
+                                                    <div class="tag-lable sale stock unavailable discount-percent"><span>sale</span></div>
+                                                                </a>
+                    <div class="product details product-item-details">
+                                                <div class="detail-listing-area">
+                            <div class="swatch-area">
+                                                            </div>
+                            <div class="title-area">
+                                <strong class="product name product-item-name">
+                                    <a class="product-item-link"
+                                    href="https://www.bareeze.com/pk/wr489-black-2000000096489.html">
+                                        Shawls Range-2                                    </a>
+                                </strong>
+                                <div class="price-box price-final_price" data-role="priceBox" data-product-id="10665" data-price-box="product-id-10665">
+
+
+
+
+
+<div class="price-box price-final_price grouped" data-role="priceBox" data-product-id="284">
+
+    <span class="price-container price-final_price tax weee">
+
+            <span id="product-price-284" data-price-amount="2400" data-price-type="finalPrice" class="price-wrapper ">
+
+<!--                <span class="price">--><!-- </span>-->
+
+                <span class="price">PKR 2,400.00 </span>
+
+                                <span class="price onsale" name="simple price">PKR 3,000.00</span>
+
+                        </span>
+
+    </span>
+
+</div></div>                            </div>
+                        </div>
+                                                <div class="product-item-inner">
+                            <div class="product actions product-item-actions">
+                                <div class="actions-primary">
+                                                                                                                    <form data-role="tocart-form" data-product-sku="WR489-Black-2000000096489" action="https://www.bareeze.com/pk/checkout/cart/add/uenc/aHR0cHM6Ly93d3cuYmFyZWV6ZS5jb20vcGsvc2FsZS9zaGF3bHMuaHRtbA%2C%2C/product/10665/" method="post">
+                                            <input type="hidden" name="product" value="10665">
+                                            <input type="hidden" name="uenc" value="aHR0cHM6Ly93d3cuYmFyZWV6ZS5jb20vcGsvY2hlY2tvdXQvY2FydC9hZGQvdWVuYy9hSFIwY0hNNkx5OTNkM2N1WW1GeVpXVjZaUzVqYjIwdmNHc3ZjMkZzWlM5emFHRjNiSE11YUhSdGJBJTJDJTJDL3Byb2R1Y3QvMTA2NjUv">
+                                            <input name="form_key" type="hidden" value="BEkOLoiDLRyfodW3" />                                            <button type="submit"
+                                                    title="Add to cart"
+                                                    class="action tocart primary">
+                                                <span>Add to cart</span>
+                                            </button>
+                                        </form>
+                                                                    </div>
+                                <!-- div data-role="add-to-links" class="actions-secondary">
+                                                                    </div -->
+                            </div>
+                                                    </div>
+                    </div>
+                </div>
+                            
+                   
+                </li><li class="item product product-item">                <div class="product-item-info" data-container="product-grid">
+                                                            <a onclick="window.dataLayer.push({&quot;event&quot;:&quot;productClick&quot;,&quot;eventLabel&quot;:&quot;Shawls Range-2&quot;,&quot;ecommerce&quot;:{&quot;click&quot;:{&quot;actionField&quot;:{&quot;list&quot;:&quot;Sale\/Shawls&quot;},&quot;products&quot;:[{&quot;name&quot;:&quot;Shawls Range-2&quot;,&quot;id&quot;:&quot;10664&quot;,&quot;price&quot;:&quot;960.00&quot;,&quot;category&quot;:&quot;Shawls&quot;,&quot;position&quot;:9}]}}, 'eventCallback': function() { document.location = 'https://www.bareeze.com/pk/wr489-white-2000000096490.html';return false; }});"  href="https://www.bareeze.com/pk/wr489-white-2000000096490.html" class="product photo product-item-photo" tabindex="-1">
+                                                <span class="product-image-wrapper-front">
+                            <img class="product-image-photo"
+                                 src="https://www.bareeze.com/media/catalog/product/6/_/6_2_1.jpg"
+                                 alt=""/>
+                        </span>
+                         <span class="product-image-wrapper-back">
+                            <img class="product-image-photo"
+                                 src="https://www.bareeze.com/media/catalog/product/w/r/wr489_shawl_white.jpg"
+                                 alt="" />
+                        </span> 
+                                              
+                        
+
+                                                    <div class="tag-lable sale stock unavailable discount-percent"><span>sale</span></div>
+                                                                </a>
+                    <div class="product details product-item-details">
+                                                <div class="detail-listing-area">
+                            <div class="swatch-area">
+                                                            </div>
+                            <div class="title-area">
+                                <strong class="product name product-item-name">
+                                    <a class="product-item-link"
+                                    href="https://www.bareeze.com/pk/wr489-white-2000000096490.html">
+                                        Shawls Range-2                                    </a>
+                                </strong>
+                                <div class="price-box price-final_price" data-role="priceBox" data-product-id="10664" data-price-box="product-id-10664">
+
+
+
+
+
+<div class="price-box price-final_price grouped" data-role="priceBox" data-product-id="284">
+
+    <span class="price-container price-final_price tax weee">
+
+            <span id="product-price-284" data-price-amount="2400" data-price-type="finalPrice" class="price-wrapper ">
+
+<!--                <span class="price">--><!-- </span>-->
+
+                <span class="price">PKR 2,400.00 </span>
+
+                                <span class="price onsale" name="simple price">PKR 3,000.00</span>
+
+                        </span>
+
+    </span>
+
+</div></div>                            </div>
+                        </div>
+                                                <div class="product-item-inner">
+                            <div class="product actions product-item-actions">
+                                <div class="actions-primary">
+                                                                                                                    <form data-role="tocart-form" data-product-sku="WR489-White-2000000096490" action="https://www.bareeze.com/pk/checkout/cart/add/uenc/aHR0cHM6Ly93d3cuYmFyZWV6ZS5jb20vcGsvc2FsZS9zaGF3bHMuaHRtbA%2C%2C/product/10664/" method="post">
+                                            <input type="hidden" name="product" value="10664">
+                                            <input type="hidden" name="uenc" value="aHR0cHM6Ly93d3cuYmFyZWV6ZS5jb20vcGsvY2hlY2tvdXQvY2FydC9hZGQvdWVuYy9hSFIwY0hNNkx5OTNkM2N1WW1GeVpXVjZaUzVqYjIwdmNHc3ZjMkZzWlM5emFHRjNiSE11YUhSdGJBJTJDJTJDL3Byb2R1Y3QvMTA2NjQv">
+                                            <input name="form_key" type="hidden" value="BEkOLoiDLRyfodW3" />                                            <button type="submit"
+                                                    title="Add to cart"
+                                                    class="action tocart primary">
+                                                <span>Add to cart</span>
+                                            </button>
+                                        </form>
+                                                                    </div>
+                                <!-- div data-role="add-to-links" class="actions-secondary">
+                                                                    </div -->
+                            </div>
+                                                    </div>
+                    </div>
+                </div>
+                            
+                   
+                </li><li class="item product product-item">                <div class="product-item-info" data-container="product-grid">
+                                                            <a onclick="window.dataLayer.push({&quot;event&quot;:&quot;productClick&quot;,&quot;eventLabel&quot;:&quot;Shawls Range-2&quot;,&quot;ecommerce&quot;:{&quot;click&quot;:{&quot;actionField&quot;:{&quot;list&quot;:&quot;Sale\/Shawls&quot;},&quot;products&quot;:[{&quot;name&quot;:&quot;Shawls Range-2&quot;,&quot;id&quot;:&quot;10663&quot;,&quot;price&quot;:&quot;960.00&quot;,&quot;category&quot;:&quot;Shawls&quot;,&quot;position&quot;:10}]}}, 'eventCallback': function() { document.location = 'https://www.bareeze.com/pk/wr487-white-2000000095782.html';return false; }});"  href="https://www.bareeze.com/pk/wr487-white-2000000095782.html" class="product photo product-item-photo" tabindex="-1">
+                                                <span class="product-image-wrapper-front">
+                            <img class="product-image-photo"
+                                 src="https://www.bareeze.com/media/catalog/product/5/_/5_2_2.jpg"
+                                 alt=""/>
+                        </span>
+                         <span class="product-image-wrapper-back">
+                            <img class="product-image-photo"
+                                 src="https://www.bareeze.com/media/catalog/product/w/r/wr487_shawl_white.jpg"
+                                 alt="" />
+                        </span> 
+                                              
+                        
+
+                                                    <div class="tag-lable sale stock unavailable discount-percent"><span>sale</span></div>
+                                                                </a>
+                    <div class="product details product-item-details">
+                                                <div class="detail-listing-area">
+                            <div class="swatch-area">
+                                                            </div>
+                            <div class="title-area">
+                                <strong class="product name product-item-name">
+                                    <a class="product-item-link"
+                                    href="https://www.bareeze.com/pk/wr487-white-2000000095782.html">
+                                        Shawls Range-2                                    </a>
+                                </strong>
+                                <div class="price-box price-final_price" data-role="priceBox" data-product-id="10663" data-price-box="product-id-10663">
+
+
+
+
+
+<div class="price-box price-final_price grouped" data-role="priceBox" data-product-id="284">
+
+    <span class="price-container price-final_price tax weee">
+
+            <span id="product-price-284" data-price-amount="2400" data-price-type="finalPrice" class="price-wrapper ">
+
+<!--                <span class="price">--><!-- </span>-->
+
+                <span class="price">PKR 2,400.00 </span>
+
+                                <span class="price onsale" name="simple price">PKR 3,000.00</span>
+
+                        </span>
+
+    </span>
+
+</div></div>                            </div>
+                        </div>
+                                                <div class="product-item-inner">
+                            <div class="product actions product-item-actions">
+                                <div class="actions-primary">
+                                                                                                                    <form data-role="tocart-form" data-product-sku="WR487-White-2000000095782" action="https://www.bareeze.com/pk/checkout/cart/add/uenc/aHR0cHM6Ly93d3cuYmFyZWV6ZS5jb20vcGsvc2FsZS9zaGF3bHMuaHRtbA%2C%2C/product/10663/" method="post">
+                                            <input type="hidden" name="product" value="10663">
+                                            <input type="hidden" name="uenc" value="aHR0cHM6Ly93d3cuYmFyZWV6ZS5jb20vcGsvY2hlY2tvdXQvY2FydC9hZGQvdWVuYy9hSFIwY0hNNkx5OTNkM2N1WW1GeVpXVjZaUzVqYjIwdmNHc3ZjMkZzWlM5emFHRjNiSE11YUhSdGJBJTJDJTJDL3Byb2R1Y3QvMTA2NjMv">
+                                            <input name="form_key" type="hidden" value="BEkOLoiDLRyfodW3" />                                            <button type="submit"
+                                                    title="Add to cart"
+                                                    class="action tocart primary">
+                                                <span>Add to cart</span>
+                                            </button>
+                                        </form>
+                                                                    </div>
+                                <!-- div data-role="add-to-links" class="actions-secondary">
+                                                                    </div -->
+                            </div>
+                                                    </div>
+                    </div>
+                </div>
+                            
+                   
+                </li><li class="item product product-item">                <div class="product-item-info" data-container="product-grid">
+                                                            <a onclick="window.dataLayer.push({&quot;event&quot;:&quot;productClick&quot;,&quot;eventLabel&quot;:&quot;Swiss Line Shawl&quot;,&quot;ecommerce&quot;:{&quot;click&quot;:{&quot;actionField&quot;:{&quot;list&quot;:&quot;Sale\/Shawls&quot;},&quot;products&quot;:[{&quot;name&quot;:&quot;Swiss Line Shawl&quot;,&quot;id&quot;:&quot;10604&quot;,&quot;price&quot;:&quot;1020.00&quot;,&quot;category&quot;:&quot;Shawls&quot;,&quot;position&quot;:11}]}}, 'eventCallback': function() { document.location = 'https://www.bareeze.com/pk/ch3206-white-2000000112529.html';return false; }});"  href="https://www.bareeze.com/pk/ch3206-white-2000000112529.html" class="product photo product-item-photo" tabindex="-1">
+                                                <span class="product-image-wrapper-front">
+                            <img class="product-image-photo"
+                                 src="https://www.bareeze.com/media/catalog/product/4/_/4_23_1.jpg"
+                                 alt=""/>
+                        </span>
+                         <span class="product-image-wrapper-back">
+                            <img class="product-image-photo"
+                                 src="https://www.bareeze.com/media/catalog/product/4/_/4_2_2__2.jpg"
+                                 alt="" />
+                        </span> 
+                                              
+                        
+
+                                                    <div class="tag-lable sale stock unavailable discount-percent"><span>sale</span></div>
+                                                                </a>
+                    <div class="product details product-item-details">
+                                                <div class="detail-listing-area">
+                            <div class="swatch-area">
+                                                            </div>
+                            <div class="title-area">
+                                <strong class="product name product-item-name">
+                                    <a class="product-item-link"
+                                    href="https://www.bareeze.com/pk/ch3206-white-2000000112529.html">
+                                        Swiss Line Shawl                                    </a>
+                                </strong>
+                                <div class="price-box price-final_price" data-role="priceBox" data-product-id="10604" data-price-box="product-id-10604">
+
+
+
+
+
+<div class="price-box price-final_price grouped" data-role="priceBox" data-product-id="284">
+
+    <span class="price-container price-final_price tax weee">
+
+            <span id="product-price-284" data-price-amount="2550" data-price-type="finalPrice" class="price-wrapper ">
+
+<!--                <span class="price">--><!-- </span>-->
+
+                <span class="price">PKR 2,550.00 </span>
+
+                                <span class="price onsale" name="simple price">PKR 3,000.00</span>
+
+                        </span>
+
+    </span>
+
+</div></div>                            </div>
+                        </div>
+                                                <div class="product-item-inner">
+                            <div class="product actions product-item-actions">
+                                <div class="actions-primary">
+                                                                                                                    <form data-role="tocart-form" data-product-sku="CH3206-White-2000000112529" action="https://www.bareeze.com/pk/checkout/cart/add/uenc/aHR0cHM6Ly93d3cuYmFyZWV6ZS5jb20vcGsvc2FsZS9zaGF3bHMuaHRtbA%2C%2C/product/10604/" method="post">
+                                            <input type="hidden" name="product" value="10604">
+                                            <input type="hidden" name="uenc" value="aHR0cHM6Ly93d3cuYmFyZWV6ZS5jb20vcGsvY2hlY2tvdXQvY2FydC9hZGQvdWVuYy9hSFIwY0hNNkx5OTNkM2N1WW1GeVpXVjZaUzVqYjIwdmNHc3ZjMkZzWlM5emFHRjNiSE11YUhSdGJBJTJDJTJDL3Byb2R1Y3QvMTA2MDQv">
+                                            <input name="form_key" type="hidden" value="BEkOLoiDLRyfodW3" />                                            <button type="submit"
+                                                    title="Add to cart"
+                                                    class="action tocart primary">
+                                                <span>Add to cart</span>
+                                            </button>
+                                        </form>
+                                                                    </div>
+                                <!-- div data-role="add-to-links" class="actions-secondary">
+                                                                    </div -->
+                            </div>
+                                                    </div>
+                    </div>
+                </div>
+                            
+                   
+                </li><li class="item product product-item">                <div class="product-item-info" data-container="product-grid">
+                                                            <a onclick="window.dataLayer.push({&quot;event&quot;:&quot;productClick&quot;,&quot;eventLabel&quot;:&quot;Shawl&quot;,&quot;ecommerce&quot;:{&quot;click&quot;:{&quot;actionField&quot;:{&quot;list&quot;:&quot;Sale\/Shawls&quot;},&quot;products&quot;:[{&quot;name&quot;:&quot;Shawl&quot;,&quot;id&quot;:&quot;10513&quot;,&quot;price&quot;:&quot;1054.00&quot;,&quot;category&quot;:&quot;Shawls&quot;,&quot;position&quot;:12}]}}, 'eventCallback': function() { document.location = 'https://www.bareeze.com/pk/wr485-white-2000000112645.html';return false; }});"  href="https://www.bareeze.com/pk/wr485-white-2000000112645.html" class="product photo product-item-photo" tabindex="-1">
+                                                <span class="product-image-wrapper-front">
+                            <img class="product-image-photo"
+                                 src="https://www.bareeze.com/media/catalog/product/9/-/9-2_2.jpg"
+                                 alt=""/>
+                        </span>
+                         <span class="product-image-wrapper-back">
+                            <img class="product-image-photo"
+                                 src="https://www.bareeze.com/media/catalog/product/9/-/9-1_2_.jpg"
+                                 alt="" />
+                        </span> 
+                                              
+                        
+
+                                                    <div class="tag-lable sale stock unavailable discount-percent"><span>sale</span></div>
+                                                                </a>
+                    <div class="product details product-item-details">
+                                                <div class="detail-listing-area">
+                            <div class="swatch-area">
+                                                            </div>
+                            <div class="title-area">
+                                <strong class="product name product-item-name">
+                                    <a class="product-item-link"
+                                    href="https://www.bareeze.com/pk/wr485-white-2000000112645.html">
+                                        Shawl                                    </a>
+                                </strong>
+                                <div class="price-box price-final_price" data-role="priceBox" data-product-id="10513" data-price-box="product-id-10513">
+
+
+
+
+
+<div class="price-box price-final_price grouped" data-role="priceBox" data-product-id="284">
+
+    <span class="price-container price-final_price tax weee">
+
+            <span id="product-price-284" data-price-amount="2635" data-price-type="finalPrice" class="price-wrapper ">
+
+<!--                <span class="price">--><!-- </span>-->
+
+                <span class="price">PKR 2,635.00 </span>
+
+                                <span class="price onsale" name="simple price">PKR 3,100.00</span>
+
+                        </span>
+
+    </span>
+
+</div></div>                            </div>
+                        </div>
+                                                <div class="product-item-inner">
+                            <div class="product actions product-item-actions">
+                                <div class="actions-primary">
+                                                                                                                    <form data-role="tocart-form" data-product-sku="WR485-White-2000000112645" action="https://www.bareeze.com/pk/checkout/cart/add/uenc/aHR0cHM6Ly93d3cuYmFyZWV6ZS5jb20vcGsvc2FsZS9zaGF3bHMuaHRtbA%2C%2C/product/10513/" method="post">
+                                            <input type="hidden" name="product" value="10513">
+                                            <input type="hidden" name="uenc" value="aHR0cHM6Ly93d3cuYmFyZWV6ZS5jb20vcGsvY2hlY2tvdXQvY2FydC9hZGQvdWVuYy9hSFIwY0hNNkx5OTNkM2N1WW1GeVpXVjZaUzVqYjIwdmNHc3ZjMkZzWlM5emFHRjNiSE11YUhSdGJBJTJDJTJDL3Byb2R1Y3QvMTA1MTMv">
+                                            <input name="form_key" type="hidden" value="BEkOLoiDLRyfodW3" />                                            <button type="submit"
+                                                    title="Add to cart"
+                                                    class="action tocart primary">
+                                                <span>Add to cart</span>
+                                            </button>
+                                        </form>
+                                                                    </div>
+                                <!-- div data-role="add-to-links" class="actions-secondary">
+                                                                    </div -->
+                            </div>
+                                                    </div>
+                    </div>
+                </div>
+                </li>                    </ol>
+    </div>
+    <div class="toolbar-bottom">
+            <div class="toolbar toolbar-products" data-mage-init='{"productListToolbarForm":{"mode":"product_list_mode","direction":"product_list_dir","order":"product_list_order","limit":"product_list_limit","modeDefault":"grid","directionDefault":"asc","orderDefault":"position","limitDefault":"12","url":"https:\/\/www.bareeze.com\/pk\/sale\/shawls.html","formKey":"BEkOLoiDLRyfodW3","post":false}}'>
+
+                    <div class="modes">
+
+        </div>
+
+        
+
+        <p class="toolbar-amount" id="toolbar-amount">
+
+            Showing <span class="toolbar-number">1</span>-<span class="toolbar-number">12</span> of <span class="toolbar-number">29</span>    </p>
+
+
+
+        
+    
+        
+                <div class="pages">
+            <strong class="label pages-label" id="paging-label">Page</strong>
+            <ul class="items pages-items" aria-labelledby="paging-label">
+            
+            
+            
+                                                <li class="item current">
+                        <strong class="page">
+                            <span class="label">You&#039;re currently reading page</span>
+                            <span>1</span>
+                        </strong>
+                    </li>
+                                                                <li class="item">
+                        <a href="https://www.bareeze.com/pk/sale/shawls.html?p=2" class="page">
+                            <span class="label">Page</span>
+                            <span>2</span>
+                        </a>
+                    </li>
+                                                                <li class="item">
+                        <a href="https://www.bareeze.com/pk/sale/shawls.html?p=3" class="page">
+                            <span class="label">Page</span>
+                            <span>3</span>
+                        </a>
+                    </li>
+                            
+            
+            
+                            <li class="item pages-item-next">
+                                        <a class="action  next"
+                       href="https://www.bareeze.com/pk/sale/shawls.html?p=2"
+                       title="Next">
+                        <span class="label">Page</span>
+                        <span>Next</span>
+                    </a>
+                </li>
+                        </ul>
+        </div>
+        
+    
+    
+
+
+        <div class="field limiter">
+
+    <label class="label" for="limiter">
+
+        <span>Show</span>
+
+    </label>
+
+    <div class="control">
+
+        <select id="limiter" data-role="limiter" class="limiter-options">
+
+                            <option value="12"                    selected="selected">
+
+                    12                </option>
+
+                            <option value="24">
+
+                    24                </option>
+
+                            <option value="36">
+
+                    36                </option>
+
+                    </select>
+
+    </div>
+
+    <span class="limiter-text">per page</span>
+
+</div>
+
+
+
+                    <div class="toolbar-sorter sorter">
+
+    <label class="sorter-label" for="sorter">Sort By</label>
+
+    <select id="sorter" data-role="sorter" class="sorter-options">
+
+                    <option value="position"
+
+                                    selected="selected"
+
+                                >
+
+                Position            </option>
+
+                    <option value="name"
+
+                                >
+
+                Product Name            </option>
+
+                    <option value="price"
+
+                                >
+
+                Price            </option>
+
+            </select>
+
+            <a title="Set Descending Direction" href="#" class="action sorter-action sort-asc" data-role="direction-switcher" data-value="desc">
+
+            <span>Set Descending Direction</span>
+
+        </a>
+
+    </div>
+
+            </div>
+
+    </div>
+    
+<style type="text/css">
+    .price-final_price .old-price { display: none; }
+    
+</style>
+
+
+
+
+
+<script type="text/x-magento-init">
+    {
+        "body": {
+            "requireCookie": {"noCookieUrl":"https:\/\/www.bareeze.com\/pk\/cookie\/index\/noCookies\/","triggers":[".action.tocompare"],"isRedirectCmsPage":true}        }
+    }
+</script>
+    <script data-role="msrp-popup-template" type="text/x-magento-template">
+    <div id="map-popup-click-for-price" class="map-popup">
+        <div class="popup-header">
+            <strong class="title" id="map-popup-heading-price"></strong>
+        </div>
+        <div class="popup-content">
+            <div class="map-info-price" id="map-popup-content">
+                <div class="price-box">
+                    <div class="map-msrp" id="map-popup-msrp-box">
+                        <span class="label">Price</span>
+                        <span class="old-price map-old-price" id="map-popup-msrp">
+                            <span class="price"></span>
+                        </span>
+                    </div>
+                    <div class="map-price" id="map-popup-price-box">
+                        <span class="label">Actual Price</span>
+                        <span id="map-popup-price" class="actual-price"></span>
+                    </div>
+                </div>
+                <form action="" method="POST" class="map-form-addtocart">
+                    <input type="hidden" name="product" class="product_id" value="" />
+                    <button type="button"
+                            title="Add&#x20;to&#x20;Cart"
+                            class="action tocart primary">
+                        <span>Add to Cart</span>
+                    </button>
+                    <div class="additional-addtocart-box">
+                                            </div>
+                </form>
+            </div>
+            <div class="map-text" id="map-popup-text">
+                Our price is lower than the manufacturer&#039;s &quot;minimum advertised price.&quot; As a result, we cannot show you the price in catalog or the product page. <br><br> You have no obligation to purchase the product once you know the price. You can simply remove the item from your cart.            </div>
+        </div>
+    </div>
+    </script>
+    <script data-role="msrp-info-template" type="text/x-magento-template">
+    <div id="map-popup-what-this" class="map-popup">
+        <div class="popup-header">
+            <strong class="title" id="map-popup-heading-what-this"></strong>
+        </div>
+        <div class="popup-content">
+            <div class="map-help-text" id="map-popup-text-what-this">
+                Our price is lower than the manufacturer&#039;s &quot;minimum advertised price.&quot; As a result, we cannot show you the price in catalog or the product page. <br><br> You have no obligation to purchase the product once you know the price. You can simply remove the item from your cart.            </div>
+        </div>
+    </div>
+    </script>
+</div></div></main><footer class="page-footer"><div class="footer content"><div class="switcher store switcher-store" id="switcher-store">
+    <strong class="label switcher-label"><span>Select Store</span></strong>
+    <div class="actions dropdown options switcher-options">
+                                                        <div class="action toggle switcher-trigger"
+                     role="button"
+                     tabindex="0"
+                     data-mage-init='{"dropdown":{}}'
+                     data-toggle="dropdown"
+                     data-trigger-keypress-button="true"
+                     id="switcher-store-trigger">
+                    <strong>
+                        <span>Main Website Store</span>
+                    </strong>
+                </div>
+                            <ul class="dropdown switcher-dropdown" data-target="dropdown">
+                                                <li class="switcher-option">
+                        <a href="#" data-post='{"action":"https:\/\/www.bareeze.com\/pk\/stores\/store\/redirect\/","data":{"___store":"intl","___from_store":"pk","uenc":"aHR0cHM6Ly93d3cuYmFyZWV6ZS5jb20vaW50bC9zYWxlL3NoYXdscy5odG1s"}}'>
+                            International                        </a>
+                    </li>
+                                                                </ul>
+    </div>
+</div>
+<div class="container">
+
+<div class="block newsletter">
+
+    <div class="content">
+
+      <div class="holder"> 
+
+      <h2 class="text-uppercase">Sign up and save</h2>
+
+        <label class="label" for="newsletter"><span>Signup&#x20;for&#x20;our&#x20;newsletter</span></label>
+
+        <form class="form subscribe"
+
+              novalidate
+
+              action="https://www.bareeze.com/pk/newsletter/subscriber/new/"
+
+              method="post"
+
+              data-mage-init='{"validation": {"errorClass": "mage-error"}}'
+
+              id="newsletter-validate-detail">
+
+            <div class="field newsletter">
+
+                <div class="control">
+
+                    <input name="email" type="email" id="newsletter"
+
+                           placeholder="Enter&#x20;your&#x20;email&#x20;address"
+
+                           data-validate="{required:true, 'validate-email':true}"/>
+
+                </div>
+
+            </div>
+
+            <div class="actions">
+
+                <button class="action subscribe primary" title="Subscribe" type="submit">
+
+                    <span>Subscribe</span>
+
+                </button>
+
+            </div>
+
+        </form>
+
+        </div>
+
+    </div>
+
+</div><div class="row"><div class="col-lg-3">
+
+<div class="open-close">
+
+<h3 class="opener">INFORMATION</h3>
+
+<div class="slide">
+
+<ul class="footer-links list-unstyled list-unstyled">
+
+<li><a href="faqs">Faqs</a></li>
+
+<li><a href="privacy-policy">Privacy policy</a></li>
+
+<li><a href="exchange-policy">Exchange policy</a></li>
+
+<li><a href="international-policy">International policy</a></li>
+
+<li><a href="store-locator">Store locator</a></li>
+
+</ul>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="col-lg-3">
+
+<div class="open-close">
+
+<h3 class="opener">COMPANY</h3>
+
+<div class="slide">
+
+<ul class="footer-links list-unstyled list-unstyled">
+
+<li><a href="about-us">About Us</a></li>
+
+<li><a href="contact-us">Contact Us</a></li>
+
+<li><a href="look-book">Look Book</a></li>
+
+</ul>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="col-lg-3">
+
+<div class="open-close">
+
+<h3 class="opener">HELP</h3>
+
+<div class="slide">
+
+<dl>
+
+<dt>Contact:</dt>
+
+<dd><a class="tel" href="tel:+92 42 32500955">+92 42 32500955</a>,</dd>
+
+<dt>Email:</dt>
+
+<dd><a class="mailto" href="mailto:customercare@bareeze.com">customercare@bareeze.com</a></dd>
+
+<dt>Customer Care:</dt>
+
+<dd>Mon-Sat,</dd>
+
+<dd>(10:00 am - 8:00 pm PST)</dd>
+
+</dl>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="col-lg-3">
+
+<div class="open-close">
+
+<h3 class="opener">CONNECT</h3>
+
+<div class="slide">
+
+<ul class="footer-links list-unstyled">
+
+<li><a href="https://www.facebook.com/bareeze">Facebook</a></li>
+
+<li><a href="https://www.instagram.com/bareezeofficial/">Instagram</a></li>
+
+</ul>
+
+</div>
+
+</div>
+
+</div></div></div><div class="footer-bottom text-center text-lg-left"><div class="container"><div class="row"><div class="col-lg-6">
+
+<ul class="footer-bottom-links list-unstyled d-flex flex-wrap justify-content-center justify-content-lg-start">
+
+<li><a href="/track-order">Track your Order</a></li>
+
+<!--<li><a href="#">Payment methods</a></li>-->
+
+</ul>
+
+</div>
+
+<div class="col-lg-6 text-lg-right"><span class="copyright">© 2021 Bareeze - All Rights Reserved</span></div></div></div></div></div></footer><script type="text/x-magento-init">
+        {
+            "*": {
+                "Magento_Ui/js/core/app": {
+                    "components": {
+                        "storage-manager": {
+                            "component": "Magento_Catalog/js/storage-manager",
+                            "appendTo": "",
+                            "storagesConfiguration" : {"recently_viewed_product":{"requestConfig":{"syncUrl":"https:\/\/www.bareeze.com\/pk\/catalog\/product\/frontend_action_synchronize\/"},"lifetime":"1000","allowToSendRequest":null},"recently_compared_product":{"requestConfig":{"syncUrl":"https:\/\/www.bareeze.com\/pk\/catalog\/product\/frontend_action_synchronize\/"},"lifetime":"1000","allowToSendRequest":null},"product_data_storage":{"updateRequestConfig":{"url":"https:\/\/www.bareeze.com\/pk\/rest\/pk\/V1\/products-render-info"},"allowToSendRequest":null}}                        }
+                    }
+                }
+            }
+        }
+</script>
+<!-- BEGIN GTAG CATEGORY TAG -->
+<!-- END GTAG CATEGORY TAG -->
+  
+<script>
+	require(['jquery',
+		'Lof_AjaxScroll/js/script'	
+		], function ($) {
+		$( document ).ready(function() {
+  // Handler for .ready() called.
+			$('.toolbar').hide();
+			windowLoadedFlag = false;
+			window.onload = function () {
+				windowLoadedFlag = true;
+			};   
+			var jQueryWaiter = function () {
+				var functions = [];
+				var timer = function() {
+					if( typeof window.jQuery != 'undefined') {
+						while (functions.length) {
+							functions.shift()(window.jQuery);
+						}
+					} else {
+						window.setTimeout(timer, 100);
+					}
+				};
+				timer();
+				return {
+					execute: function(onJQueryReady) {
+						if (window.jQuery) {
+							onJQueryReady(window.jQuery);
+						} else {
+							functions.push(onJQueryReady);
+						}
+					}
+				};
+			}();
+
+			window.SgyIAS = {
+				debug: false,
+				_log: function(object) { 
+					//console.log(object); 
+				},
+				init: function(){ 
+					jQuery(function($) {
+						var config = {
+							item: '.products-grid',
+							container : '.main',
+							next: '.next',
+							pagination: '.toolbar .pages',
+							parameter: '1',
+							delay: 600,
+							negativeMargin: 150,
+							history: {
+								prev: '.prev'
+							},
+							noneleft: {
+								text: '',
+								html: '<div class="ias-noneleft" style="text-align: center;">{text}</div>'
+							},
+							spinner: {
+															html: '<div class="ias-spinner" style="text-align: center;"><img style="display:inline" src="{src}"/> <em>Loading - please wait...</em></div>'
+						},  
+						trigger: {
+							text: 'Load more',
+							html: '<div class="ias-trigger ias-trigger-next" style="text-align: center; cursor: pointer;"><a>{text}</a></div>',
+							textPrev: 'Load more',
+							htmlPrev: '<div class="ias-trigger ias-trigger-prev" style="text-align: center; cursor: pointer;"><a>{text}</a></div>',
+							offset: 500						}
+
+					};
+
+
+					if (window.ias_config){
+						$.extend(config, window.ias_config);
+					}
+
+
+					SgyIAS._log({extension: 'ias', config: config});
+					window.ias = $.ias(config);
+
+					SgyIAS._log({extension: 'paging'});
+					window.ias.extension(new IASPagingExtension());
+
+					SgyIAS._log({extension: 'spinner'});
+					if(typeof(IASSpinnerExtension) !== "undefined")
+					window.ias.extension(new IASSpinnerExtension(config.spinner));
+
+					SgyIAS._log({extension: 'noneleft'});
+					window.ias.extension(new IASNoneLeftExtension(config.noneleft));
+
+					SgyIAS._log({extension: 'trigger'});
+					window.ias.extension(new IASTriggerExtension(config.trigger));
+						// debug events
+						window.ias.on('scroll', function(scrollOffset, scrollThreshold){
+							SgyIAS._log({eventName: 'scroll', scrollOffset: scrollOffset, scrollThreshold: scrollThreshold});
+						});
+						window.ias.on('load', function(event){
+							SgyIAS._log({eventName:'load', event: event});
+						});
+						window.ias.on('loaded', function(data, items){
+							SgyIAS._log({eventName: 'loaded', data: data, items: items});
+						});
+						window.ias.on('rendered', function(items){
+							SgyIAS._log({eventName: 'rendered', items: items});
+							if (typeof($(items).find('.lof-lazy').lazy) === 'function') {
+								$(items).find('.lof-lazy').lazy({
+									bind: "event",
+									delay: 0
+								});
+							}
+						}); 
+						window.ias.on('noneLeft', function(){
+							SgyIAS._log({eventName: 'noneLeft'});
+						});
+						window.ias.on('next', function(url){
+							SgyIAS._log({eventName: 'next', url: url});
+						});
+						window.ias.on('ready', function(){
+							SgyIAS._log({eventName: 'ready'});
+						});
+						if(windowLoadedFlag){
+							$(window).load();
+						}
+
+						SgyIAS._log('Done loading IAS.');
+
+					});
+
+				}
+			};
+			jQueryWaiter.execute(function(){
+				SgyIAS.init();
+
+			});
+		});
+		});
+
+
+//]]>
+</script>
+<script type="text/javascript">
+if(typeof(IASCallbacks) == "undefined"){
+/**
+ * IASCallbacks
+ * http://infiniteajaxscroll.com
+ *
+ * This file is part of the Infinite AJAX Scroll package
+ *
+ * Copyright 2014 Webcreate (Jeroen Fiege)
+ */
+
+var IASCallbacks = function () {
+    this.list = [];
+    this.fireStack = [];
+    this.isFiring = false;
+    this.isDisabled = false;
+
+    /**
+     * Calls all added callbacks
+     *
+     * @private
+     * @param args
+     */
+    this.fire = function (args) {
+        var context = args[0],
+            deferred = args[1],
+            callbackArguments = args[2];
+        this.isFiring = true;
+
+        for (var i = 0, l = this.list.length; i < l; i++) {
+            if (false === this.list[i].fn.apply(context, callbackArguments)) {
+                deferred.reject();
+
+                break;
+            }
+        }
+
+        this.isFiring = false;
+
+        deferred.resolve();
+
+        if (this.fireStack.length) {
+            this.fire(this.fireStack.shift());
+        }
+    };
+
+    /**
+     * Returns index of the callback in the list in a similar way as
+     * the indexOf function.
+     *
+     * @param callback
+     * @param {number} index index to start the search from
+     * @returns {number}
+     */
+    this.inList = function (callback, index) {
+        index = index || 0;
+
+        for (var i = index, length = this.list.length; i < length; i++) {
+            if (this.list[i].fn === callback || (callback.guid && this.list[i].fn.guid && callback.guid === this.list[i].fn.guid)) {
+                return i;
+            }
+        }
+
+        return -1;
+    };
+
+    return this;
+};
+
+IASCallbacks.prototype = {
+    /**
+     * Adds a callback
+     *
+     * @param callback
+     * @returns {IASCallbacks}
+     * @param priority
+     */
+    add: function (callback, priority) {
+        var callbackObject = {fn: callback, priority: priority};
+
+        priority = priority || 0;
+
+        for (var i = 0, length = this.list.length; i < length; i++) {
+            if (priority > this.list[i].priority) {
+                this.list.splice(i, 0, callbackObject);
+
+                return this;
+            }
+        }
+
+        this.list.push(callbackObject);
+
+        return this;
+    },
+
+    /**
+     * Removes a callback
+     *
+     * @param callback
+     * @returns {IASCallbacks}
+     */
+    remove: function (callback) {
+        var index = 0;
+
+        while (( index = this.inList(callback, index) ) > -1) {
+            this.list.splice(index, 1);
+        }
+
+        return this;
+    },
+
+    /**
+     * Checks if callback is added
+     *
+     * @param callback
+     * @returns {*}
+     */
+    has: function (callback) {
+        return (this.inList(callback) > -1);
+    },
+
+
+    /**
+     * Calls callbacks with a context
+     *
+     * @param context
+     * @param args
+     * @returns {object|void}
+     */
+    fireWith: function (context, args) {
+        var deferred = jQuery.Deferred();
+
+        if (this.isDisabled) {
+            return deferred.reject();
+        }
+
+        args = args || [];
+        args = [ context, deferred, args.slice ? args.slice() : args ];
+
+        if (this.isFiring) {
+            this.fireStack.push(args);
+        } else {
+            this.fire(args);
+        }
+
+        return deferred;
+    },
+
+    /**
+     * Disable firing of new events
+     */
+    disable: function () {
+        this.isDisabled = true;
+    },
+
+    /**
+     * Enable firing of new events
+     */
+    enable: function () {
+        this.isDisabled = false;
+    }
+};
+}
+if(typeof(IASHistoryExtension) == "undefined"){
+/**
+ * IAS History Extension
+ * An IAS extension to enable browser history
+ * http://infiniteajaxscroll.com
+ *
+ * This file is part of the Infinite AJAX Scroll package
+ *
+ * Copyright 2014 Webcreate (Jeroen Fiege)
+ */
+
+var IASHistoryExtension = function (options) {
+    options = jQuery.extend({}, this.defaults, options);
+
+    this.ias = null;
+    this.prevSelector = options.prev;
+    this.prevUrl = null;
+    this.listeners = {
+        prev: new IASCallbacks()
+    };
+
+    /**
+     * @private
+     * @param pageNum
+     * @param scrollOffset
+     * @param url
+     */
+    this.onPageChange = function (pageNum, scrollOffset, url) {
+        var state = {};
+
+        if (!window.history || !window.history.replaceState) {
+            return;
+        }
+
+        history.replaceState(state, document.title, url);
+    };
+
+    /**
+     * @private
+     * @param currentScrollOffset
+     * @param scrollThreshold
+     */
+    this.onScroll = function (currentScrollOffset, scrollThreshold) {
+        var firstItemScrollThreshold = this.getScrollThresholdFirstItem();
+
+        if (!this.prevUrl) {
+            return;
+        }
+
+        currentScrollOffset -= this.ias.$scrollContainer.height();
+
+        if (currentScrollOffset <= firstItemScrollThreshold) {
+            this.prev();
+        }
+    };
+
+    /**
+     * Returns the url for the next page
+     *
+     * @private
+     */
+    this.getPrevUrl = function (container) {
+        if (!container) {
+            container = this.ias.$container;
+        }
+
+        // always take the last matching item
+        var prev_url = jQuery(this.prevSelector, container).last().attr('href');
+        if(typeof(prev_url) != 'undefined') {
+            prev_url += '&ajaxscroll=1';
+        } else {
+            prev_url = '';
+        }
+        return prev_url;
+    };
+
+    /**
+     * Returns scroll threshold. This threshold marks the line from where
+     * IAS should start loading the next page.
+     *
+     * @private
+     * @return {number}
+     */
+    this.getScrollThresholdFirstItem = function () {
+        var $firstElement;
+
+        $firstElement = this.ias.getFirstItem();
+
+        // if the don't have a first element, the DOM might not have been loaded,
+        // or the selector is invalid
+        if (0 === $firstElement.size()) {
+            return -1;
+        }
+
+        return ($firstElement.offset().top);
+    };
+
+    /**
+     * Renders items
+     *
+     * @private
+     * @param items
+     * @param callback
+     */
+    this.renderBefore = function (items, callback) {
+        var ias = this.ias,
+            $firstItem = ias.getFirstItem(),
+            count = 0;
+
+        ias.fire('render', [items]);
+
+        jQuery(items).hide(); // at first, hide it so we can fade it in later
+
+        $firstItem.before(items);
+
+        jQuery(items).fadeIn(400, function () {
+            if (++count < items.length) {
+                return;
+            }
+
+            ias.fire('rendered', [items]);
+
+            if (callback) {
+                callback();
+            }
+        });
+    };
+
+    return this;
+};
+
+/**
+ * @public
+ */
+IASHistoryExtension.prototype.initialize = function (ias) {
+    var self = this;
+
+    this.ias = ias;
+
+    // expose the extensions listeners
+    jQuery.extend(ias.listeners, this.listeners);
+
+    // expose prev method
+    ias.prev = function() {
+        return self.prev();
+    };
+
+    this.prevUrl = this.getPrevUrl();
+};
+
+/**
+ * Bind to events
+ *
+ * @public
+ * @param ias
+ */
+IASHistoryExtension.prototype.bind = function (ias) {
+    var self = this;
+
+    ias.on('pageChange', jQuery.proxy(this.onPageChange, this));
+    ias.on('scroll', jQuery.proxy(this.onScroll, this));
+    ias.on('ready', function () {
+        var currentScrollOffset = ias.getCurrentScrollOffset(ias.$scrollContainer),
+            firstItemScrollThreshold = self.getScrollThresholdFirstItem();
+
+        currentScrollOffset -= ias.$scrollContainer.height();
+
+        if (currentScrollOffset <= firstItemScrollThreshold) {
+            self.prev();
+        }
+    });
+};
+
+/**
+ * Load the prev page
+ *
+ * @public
+ */
+IASHistoryExtension.prototype.prev = function () {
+    var url = this.prevUrl,
+        self = this,
+        ias = this.ias;
+
+    if (!url) {
+        return false;
+    }
+
+    ias.unbind();
+
+    var promise = ias.fire('prev', [url]);
+
+    promise.done(function () {
+        ias.load(url, function (data, items) {
+            self.renderBefore(items, function () {
+                self.prevUrl = self.getPrevUrl(data);
+
+                ias.bind();
+
+                if (self.prevUrl) {
+                    self.prev();
+                }
+            });
+        });
+    });
+
+    promise.fail(function () {
+        ias.bind();
+    });
+
+    return true;
+};
+
+/**
+ * @public
+ */
+IASHistoryExtension.prototype.defaults = {
+    prev: ".prev"
+};
+}
+if(typeof(IASNoneLeftExtension) == "undefined"){
+/**
+ * IAS None Left Extension
+ * An IAS extension to show a message when there are no more pages te load
+ * http://infiniteajaxscroll.com
+ *
+ * This file is part of the Infinite AJAX Scroll package
+ *
+ * Copyright 2014 Webcreate (Jeroen Fiege)
+ */
+
+var IASNoneLeftExtension = function(options) {
+    options = jQuery.extend({}, this.defaults, options);
+
+    this.ias = null;
+    this.uid = (new Date()).getTime();
+    this.html = (options.html).replace('{text}', options.text);
+
+    /**
+     * Shows none left message
+     */
+    this.showNoneLeft = function() {
+        var $element = jQuery(this.html).attr('id', 'ias_noneleft_' + this.uid),
+            $lastItem = this.ias.getLastItem();
+
+        $lastItem.after($element);
+        $element.fadeIn();
+    };
+
+    return this;
+};
+
+/**
+ * @public
+ */
+IASNoneLeftExtension.prototype.bind = function(ias) {
+    this.ias = ias;
+
+    ias.on('noneLeft', jQuery.proxy(this.showNoneLeft, this));
+};
+
+/**
+ * @public
+ */
+IASNoneLeftExtension.prototype.defaults = {
+    text: 'You reached the end.',
+    html: '<div class="ias-noneleft" style="text-align: center;">{text}</div>'
+};
+}
+if(typeof(IASPagingExtension) == "undefined"){
+/**
+ * IAS Paging Extension
+ * An IAS extension providing additional events
+ * http://infiniteajaxscroll.com
+ *
+ * This file is part of the Infinite AJAX Scroll package
+ *
+ * Copyright 2014 Webcreate (Jeroen Fiege)
+ */
+
+var IASPagingExtension = function() {
+    this.ias = null;
+    this.pagebreaks = [[0, document.location.toString()]];
+    this.lastPageNum = 1;
+    this.enabled = true;
+    this.listeners = {
+        pageChange: new IASCallbacks()
+    };
+
+    /**
+     * Fires pageChange event
+     *
+     * @param currentScrollOffset
+     * @param scrollThreshold
+     */
+    this.onScroll = function(currentScrollOffset, scrollThreshold) {
+        if (!this.enabled) {
+            return;
+        }
+
+        var ias = this.ias,
+            currentPageNum = this.getCurrentPageNum(currentScrollOffset),
+            currentPagebreak = this.getCurrentPagebreak(currentScrollOffset),
+            urlPage;
+
+        if (this.lastPageNum !== currentPageNum) {
+            urlPage = currentPagebreak[1];
+
+            ias.fire('pageChange', [currentPageNum, currentScrollOffset, urlPage]);
+        }
+
+        this.lastPageNum = currentPageNum;
+    };
+
+    /**
+     * Keeps track of pagebreaks
+     *
+     * @param url
+     */
+    this.onNext = function(url) {
+        var currentScrollOffset = this.ias.getCurrentScrollOffset(this.ias.$scrollContainer);
+
+        this.pagebreaks.push([currentScrollOffset, url]);
+
+        // trigger pageChange and update lastPageNum
+        var currentPageNum = this.getCurrentPageNum(currentScrollOffset) + 1;
+
+        this.ias.fire('pageChange', [currentPageNum, currentScrollOffset, url]);
+
+        this.lastPageNum = currentPageNum;
+    };
+
+    /**
+     * Keeps track of pagebreaks
+     *
+     * @param url
+     */
+    this.onPrev = function(url) {
+        var self = this,
+            ias = self.ias,
+            currentScrollOffset = ias.getCurrentScrollOffset(ias.$scrollContainer),
+            prevCurrentScrollOffset = currentScrollOffset - ias.$scrollContainer.height(),
+            $firstItem = ias.getFirstItem();
+
+        this.enabled = false;
+
+        this.pagebreaks.unshift([0, url]);
+
+        ias.one('rendered', function() {
+            // update pagebreaks
+            for (var i = 1, l = self.pagebreaks.length; i < l; i++) {
+                self.pagebreaks[i][0] = self.pagebreaks[i][0] + $firstItem.offset().top;
+            }
+
+            // trigger pageChange and update lastPageNum
+            var currentPageNum = self.getCurrentPageNum(prevCurrentScrollOffset) + 1;
+
+            ias.fire('pageChange', [currentPageNum, prevCurrentScrollOffset, url]);
+
+            self.lastPageNum = currentPageNum;
+
+            self.enabled = true;
+        });
+    };
+
+    return this;
+};
+
+/**
+ * @public
+ */
+IASPagingExtension.prototype.initialize = function(ias) {
+    this.ias = ias;
+
+    // expose the extensions listeners
+    jQuery.extend(ias.listeners, this.listeners);
+};
+
+/**
+ * @public
+ */
+IASPagingExtension.prototype.bind = function(ias) {
+    try {
+        ias.on('prev', jQuery.proxy(this.onPrev, this), this.priority);
+    } catch (exception) {}
+
+    ias.on('next', jQuery.proxy(this.onNext, this), this.priority);
+    ias.on('scroll', jQuery.proxy(this.onScroll, this), this.priority);
+};
+
+/**
+ * Returns current page number based on scroll offset
+ *
+ * @param {number} scrollOffset
+ * @returns {number}
+ */
+IASPagingExtension.prototype.getCurrentPageNum = function(scrollOffset) {
+    for (var i = (this.pagebreaks.length - 1); i > 0; i--) {
+        if (scrollOffset > this.pagebreaks[i][0]) {
+            return i + 1;
+        }
+    }
+
+    return 1;
+};
+
+/**
+ * Returns current pagebreak information based on scroll offset
+ *
+ * @param {number} scrollOffset
+ * @returns {number}|null
+ */
+IASPagingExtension.prototype.getCurrentPagebreak = function(scrollOffset) {
+    for (var i = (this.pagebreaks.length - 1); i >= 0; i--) {
+        if (scrollOffset > this.pagebreaks[i][0]) {
+            return this.pagebreaks[i];
+        }
+    }
+
+    return null;
+};
+
+/**
+ * @public
+ * @type {number}
+ */
+IASPagingExtension.prototype.priority = 500;
+
+}
+if(typeof(IASSpinnerExtension) == "undefined"){
+/**
+ * IAS Spinner Extension
+ * An IAS extension to show a spinner when loading
+ * http://infiniteajaxscroll.com
+ *
+ * This file is part of the Infinite AJAX Scroll package
+ *
+ * Copyright 2014 Webcreate (Jeroen Fiege)
+ */
+
+var IASSpinnerExtension = function(options) {
+    options = jQuery.extend({}, this.defaults, options);
+
+    this.ias = null;
+    this.uid = new Date().getTime();
+    this.src = options.src;
+    this.html = (options.html).replace('{src}', this.src);
+
+    /**
+     * Shows spinner
+     */
+    this.showSpinner = function() {
+        var $spinner = this.getSpinner() || this.createSpinner(),
+            $lastItem = this.ias.getLastItem();
+
+        $lastItem.after($spinner);
+        $spinner.fadeIn();
+    };
+
+    /**
+     * Shows spinner
+     */
+    this.showSpinnerBefore = function() {
+        var $spinner = this.getSpinner() || this.createSpinner(),
+            $firstItem = this.ias.getFirstItem();
+
+        $firstItem.before($spinner);
+        $spinner.fadeIn();
+    };
+
+    /**
+     * Removes spinner
+     */
+    this.removeSpinner = function() {
+        if (this.hasSpinner()) {
+            this.getSpinner().remove();
+        }
+    };
+
+    /**
+     * @returns {jQuery|boolean}
+     */
+    this.getSpinner = function() {
+        var $spinner = jQuery('#ias_spinner_' + this.uid);
+
+        if ($spinner.size() > 0) {
+            return $spinner;
+        }
+
+        return false;
+    };
+
+    /**
+     * @returns {boolean}
+     */
+    this.hasSpinner = function() {
+        var $spinner = jQuery('#ias_spinner_' + this.uid);
+
+        return ($spinner.size() > 0);
+    };
+
+    /**
+     * @returns {jQuery}
+     */
+    this.createSpinner = function() {
+        var $spinner = jQuery(this.html).attr('id', 'ias_spinner_' + this.uid);
+
+        $spinner.hide();
+
+        return $spinner;
+    };
+
+    return this;
+};
+
+/**
+ * @public
+ */
+IASSpinnerExtension.prototype.bind = function(ias) {
+    this.ias = ias;
+
+    ias.on('next', jQuery.proxy(this.showSpinner, this));
+
+    try {
+        ias.on('prev', jQuery.proxy(this.showSpinnerBefore, this));
+    } catch (exception) {}
+
+    ias.on('render', jQuery.proxy(this.removeSpinner, this));
+};
+
+/**
+ * @public
+ */
+IASSpinnerExtension.prototype.defaults = {
+    src: 'data:image/gif;base64,R0lGODlhEAAQAPQAAP///wAAAPDw8IqKiuDg4EZGRnp6egAAAFhYWCQkJKysrL6+vhQUFJycnAQEBDY2NmhoaAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH/C05FVFNDQVBFMi4wAwEAAAAh/hpDcmVhdGVkIHdpdGggYWpheGxvYWQuaW5mbwAh+QQJCgAAACwAAAAAEAAQAAAFdyAgAgIJIeWoAkRCCMdBkKtIHIngyMKsErPBYbADpkSCwhDmQCBethRB6Vj4kFCkQPG4IlWDgrNRIwnO4UKBXDufzQvDMaoSDBgFb886MiQadgNABAokfCwzBA8LCg0Egl8jAggGAA1kBIA1BAYzlyILczULC2UhACH5BAkKAAAALAAAAAAQABAAAAV2ICACAmlAZTmOREEIyUEQjLKKxPHADhEvqxlgcGgkGI1DYSVAIAWMx+lwSKkICJ0QsHi9RgKBwnVTiRQQgwF4I4UFDQQEwi6/3YSGWRRmjhEETAJfIgMFCnAKM0KDV4EEEAQLiF18TAYNXDaSe3x6mjidN1s3IQAh+QQJCgAAACwAAAAAEAAQAAAFeCAgAgLZDGU5jgRECEUiCI+yioSDwDJyLKsXoHFQxBSHAoAAFBhqtMJg8DgQBgfrEsJAEAg4YhZIEiwgKtHiMBgtpg3wbUZXGO7kOb1MUKRFMysCChAoggJCIg0GC2aNe4gqQldfL4l/Ag1AXySJgn5LcoE3QXI3IQAh+QQJCgAAACwAAAAAEAAQAAAFdiAgAgLZNGU5joQhCEjxIssqEo8bC9BRjy9Ag7GILQ4QEoE0gBAEBcOpcBA0DoxSK/e8LRIHn+i1cK0IyKdg0VAoljYIg+GgnRrwVS/8IAkICyosBIQpBAMoKy9dImxPhS+GKkFrkX+TigtLlIyKXUF+NjagNiEAIfkECQoAAAAsAAAAABAAEAAABWwgIAICaRhlOY4EIgjH8R7LKhKHGwsMvb4AAy3WODBIBBKCsYA9TjuhDNDKEVSERezQEL0WrhXucRUQGuik7bFlngzqVW9LMl9XWvLdjFaJtDFqZ1cEZUB0dUgvL3dgP4WJZn4jkomWNpSTIyEAIfkECQoAAAAsAAAAABAAEAAABX4gIAICuSxlOY6CIgiD8RrEKgqGOwxwUrMlAoSwIzAGpJpgoSDAGifDY5kopBYDlEpAQBwevxfBtRIUGi8xwWkDNBCIwmC9Vq0aiQQDQuK+VgQPDXV9hCJjBwcFYU5pLwwHXQcMKSmNLQcIAExlbH8JBwttaX0ABAcNbWVbKyEAIfkECQoAAAAsAAAAABAAEAAABXkgIAICSRBlOY7CIghN8zbEKsKoIjdFzZaEgUBHKChMJtRwcWpAWoWnifm6ESAMhO8lQK0EEAV3rFopIBCEcGwDKAqPh4HUrY4ICHH1dSoTFgcHUiZjBhAJB2AHDykpKAwHAwdzf19KkASIPl9cDgcnDkdtNwiMJCshACH5BAkKAAAALAAAAAAQABAAAAV3ICACAkkQZTmOAiosiyAoxCq+KPxCNVsSMRgBsiClWrLTSWFoIQZHl6pleBh6suxKMIhlvzbAwkBWfFWrBQTxNLq2RG2yhSUkDs2b63AYDAoJXAcFRwADeAkJDX0AQCsEfAQMDAIPBz0rCgcxky0JRWE1AmwpKyEAIfkECQoAAAAsAAAAABAAEAAABXkgIAICKZzkqJ4nQZxLqZKv4NqNLKK2/Q4Ek4lFXChsg5ypJjs1II3gEDUSRInEGYAw6B6zM4JhrDAtEosVkLUtHA7RHaHAGJQEjsODcEg0FBAFVgkQJQ1pAwcDDw8KcFtSInwJAowCCA6RIwqZAgkPNgVpWndjdyohACH5BAkKAAAALAAAAAAQABAAAAV5ICACAimc5KieLEuUKvm2xAKLqDCfC2GaO9eL0LABWTiBYmA06W6kHgvCqEJiAIJiu3gcvgUsscHUERm+kaCxyxa+zRPk0SgJEgfIvbAdIAQLCAYlCj4DBw0IBQsMCjIqBAcPAooCBg9pKgsJLwUFOhCZKyQDA3YqIQAh+QQJCgAAACwAAAAAEAAQAAAFdSAgAgIpnOSonmxbqiThCrJKEHFbo8JxDDOZYFFb+A41E4H4OhkOipXwBElYITDAckFEOBgMQ3arkMkUBdxIUGZpEb7kaQBRlASPg0FQQHAbEEMGDSVEAA1QBhAED1E0NgwFAooCDWljaQIQCE5qMHcNhCkjIQAh+QQJCgAAACwAAAAAEAAQAAAFeSAgAgIpnOSoLgxxvqgKLEcCC65KEAByKK8cSpA4DAiHQ/DkKhGKh4ZCtCyZGo6F6iYYPAqFgYy02xkSaLEMV34tELyRYNEsCQyHlvWkGCzsPgMCEAY7Cg04Uk48LAsDhRA8MVQPEF0GAgqYYwSRlycNcWskCkApIyEAOwAAAAAAAAAAAA==',
+    html: '<div class="ias-spinner" style="text-align: center;"><img src="{src}"/></div>'
+};
+}
+if(typeof(IASTriggerExtension) == "undefined"){
+/**
+ * IAS Trigger Extension
+ * An IAS extension to show a trigger link to load the next page
+ * http://infiniteajaxscroll.com
+ *
+ * This file is part of the Infinite AJAX Scroll package
+ *
+ * Copyright 2014 Webcreate (Jeroen Fiege)
+ */
+
+var IASTriggerExtension = function(options) {
+    options = jQuery.extend({}, this.defaults, options);
+
+    this.ias = null;
+    this.html = (options.html).replace('{text}', options.text);
+    this.htmlPrev = (options.htmlPrev).replace('{text}', options.textPrev);
+    this.enabled = true;
+    this.count = 0;
+    this.offset = options.offset;
+    this.$triggerNext = null;
+    this.$triggerPrev = null;
+
+    /**
+     * Shows trigger for next page
+     */
+    this.showTriggerNext = function() {
+        if (!this.enabled) {
+            return true;
+        }
+
+        if (false === this.offset || ++this.count < this.offset) {
+            return true;
+        }
+
+        var $trigger = this.$triggerNext || (this.$triggerNext = this.createTrigger(this.next, this.html));
+        var $lastItem = this.ias.getLastItem();
+
+        $lastItem.after($trigger);
+        $trigger.fadeIn();
+
+        return false;
+    };
+
+    /**
+     * Shows trigger for previous page
+     */
+    this.showTriggerPrev = function() {
+        if (!this.enabled) {
+            return true;
+        }
+
+        var $trigger = this.$triggerPrev || (this.$triggerPrev = this.createTrigger(this.prev, this.htmlPrev));
+        var $firstItem = this.ias.getFirstItem();
+
+        $firstItem.before($trigger);
+        $trigger.fadeIn();
+
+        return false;
+    };
+
+    /**
+     * @param clickCallback
+     * @returns {*|jQuery}
+     * @param {string} html
+     */
+    this.createTrigger = function(clickCallback, html) {
+        var uid = (new Date()).getTime(),
+            $trigger;
+
+        html = html || this.html;
+        $trigger = jQuery(html).attr('id', 'ias_trigger_' + uid);
+
+        $trigger.hide();
+        $trigger.on('click', jQuery.proxy(clickCallback, this));
+
+        return $trigger;
+    };
+
+    return this;
+};
+
+/**
+ * @public
+ * @param {object} ias
+ */
+IASTriggerExtension.prototype.bind = function(ias) {
+    var self = this;
+
+    this.ias = ias;
+
+    try {
+        ias.on('prev', jQuery.proxy(this.showTriggerPrev, this), this.priority);
+    } catch (exception) {}
+
+    ias.on('next', jQuery.proxy(this.showTriggerNext, this), this.priority);
+    ias.on('rendered', function () { self.enabled = true; }, this.priority);
+};
+
+/**
+ * @public
+ */
+IASTriggerExtension.prototype.next = function() {
+    this.enabled = false;
+    this.ias.unbind();
+
+    if (this.$triggerNext) {
+        this.$triggerNext.remove();
+        this.$triggerNext = null;
+    }
+
+    this.ias.next();
+};
+
+/**
+ * @public
+ */
+IASTriggerExtension.prototype.prev = function() {
+    this.enabled = false;
+    this.ias.unbind();
+
+    if (this.$triggerPrev) {
+        this.$triggerPrev.remove();
+        this.$triggerPrev = null;
+    }
+
+    this.ias.prev();
+};
+
+/**
+ * @public
+ */
+IASTriggerExtension.prototype.defaults = {
+    text: 'Load more items',
+    html: '<div class="ias-trigger ias-trigger-next" style="text-align: center; cursor: pointer;"><a>{text}</a></div>',
+    textPrev: 'Load previous items',
+    htmlPrev: '<div class="ias-trigger ias-trigger-prev" style="text-align: center; cursor: pointer;"><a>{text}</a></div>',
+    offset: 0
+};
+
+/**
+ * @public
+ * @type {number}
+ */
+IASTriggerExtension.prototype.priority = 1000;
+}
+</script><!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.agent='dvapptrian';n.queue=[];
+t=b.createElement(e);t.async=!0;t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window,
+document,'script','https://connect.facebook.net/en_US/fbevents.js');
+
+fbq('init', '183425912169450');
+fbq('track', 'PageView');
+
+
+
+</script>
+<noscript><img height="1" width="1" style="display:none" alt="Facebook Pixel" 
+src="https://www.facebook.com/tr?id=183425912169450&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
+</div>    <script>
+        require(['jquery','weltpixel_persistentLayer', 'weltpixel_gtm', 'Magento_Customer/js/customer-data'],
+            function ($, wpPersDl, wpgtm, customerData) {
+                $( document ).ajaxComplete(function( event, xhr, settings ) {
+                    if (settings.url.search('/customer\/section\/load/') > 0) {
+                        var response = xhr.responseJSON;
+                        if (response.gtm) {
+                            var dataLayerData = $.parseJSON(response.gtm.datalayer);
+                            for (index in dataLayerData) {
+                                window.dataLayer.push(dataLayerData[index]);
+                            }
+                        }
+                    }
+                });
+                var wpPersDlOptions = {'storageExpiryTime' : 30 };
+                var wpGtmOptions = {
+                    'enabled' : 0,
+                    'persDataLayer' : wpPersDl
+                };
+                wpPersDl.init(wpPersDlOptions);
+                wpgtm.trackPromotion(wpGtmOptions);
+            });
+    </script>
+    </body>
+</html>

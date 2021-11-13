@@ -59,6 +59,7 @@ MIDDLEWARE = [
     'corsheaders.middleware.CorsPostCsrfMiddleware',
     'corsheaders.middleware.CorsMiddleware',
     'django.middleware.csrf.CsrfViewMiddleware',
+    'django.middleware.common.CommonMiddleware',
     
 ]
 CORS_ORIGIN_ALLOW_ALL = True
@@ -87,13 +88,15 @@ TEMPLATES = [
 
 
 WSGI_APPLICATION = 'BrandSale.wsgi.application'
-CORS_ORIGIN_ALLOW_ALL = False
-CORS_ORIGIN_WHITELIST = (
-  'http://localhost:3000',
-)
+# CORS_ORIGIN_WHITELIST = (
+#   'http://localhost:3000',
+# )
 CORS_ORIGIN_ALLOW_ALL = True
 
 ALLOWED_HOSTS = ['*']
+
+
+
 
 CORS_ALLOW_METHODS = [
     'DELETE',
@@ -120,8 +123,8 @@ DATABASES = {
 EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
 EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_PORT = 587
-EMAIL_HOST_USER = 'brand.sales100@gmail.com'
-EMAIL_HOST_PASSWORD = 'gfsexdslixzzlled'
+EMAIL_HOST_USER = 'sales.notifier1@gmail.com'
+EMAIL_HOST_PASSWORD = 'prblafpkozlkhlqd'
 EMAIL_USE_TLS = True
 DOMAIN=('localhost:3000')
 
