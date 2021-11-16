@@ -25,6 +25,7 @@ import Map from './Map';
 import Toprated from './Toprated';
 import { recognition } from "../API/voicerecognition";
 import Testing from './Testing';
+import Privacy_policy from './privacy_policy';
 
 
 const Main = () => {
@@ -116,6 +117,7 @@ const Main = () => {
                 
                 <Route exact path='/google44b0973cac63df01.html' component={Testing} />
                 <Route exact path='/password/reset/confirm/:uid/:token' component={Confirmpassword} />
+                <Route exact path='/terms' component={Privacy_policy} />
 
 
                 <Route exact path='/login' component={Login} />
