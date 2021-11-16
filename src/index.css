@@ -1,3 +1,4 @@
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
@@ -7,7 +8,667 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
+
+.product-slider .owl-nav button[type=button] {
+	font-size: 30px;
+	position: absolute;
+	left: -62px;
+	top: 25%;
+	color: #171717;
+	opacity: 0.3;
+}
+
+.product-slider .owl-nav button[type=button].owl-next {
+	left: auto;
+	right: -62px;
+	color: #171717;
+	opacity: 1;
+}
+
+.product-slider .owl-dots {
+	text-align: center;
+	margin-top: 27px;
+}
+
+.product-slider .owl-dots button {
+	width: 6px;
+	height: 6px;
+	background: #D8D9DA;
+	border-radius: 50%;
+	margin-right: 10px;
+	-webkit-transition: all 0.3s;
+	-o-transition: all 0.3s;
+	transition: all 0.3s;
+}
+
+.product-slider .owl-dots button:last-child {
+	margin-right: 0;
+}
+
+.product-slider .owl-dots button.active {
+	width: 30px;
+	background: #252525;
+	border-radius: 50px;
+}
+
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.category  img{
+
+  width: 400px;
+  height: 300px;
+
+}
+div .category{
+  margin-top: 20px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 16px 15px 0 rgba(223, 135, 3, 0.19);
+  margin-left: 50px;
+  float: left;
+  margin-bottom: 30px;
+  border-style: solid;
+  border-radius: 4px;
+  border-color: orange;
+}
+
+.container123{
+  height: 100px;
+}
+.main1{
+  margin-left: 5%;
+  margin-right: 5%;
+  margin-top: 5%;
+  margin-left: 50px;
+
+ 
+
+ 
+}
+.card1{
+  float: left !important; 
+  
+  
+  
+}
+.rating{
+  display: inline-block;
+  margin: 0 auto;
+  padding: 3px;
+}
+
+
+.row12 .container-fluid .row12{
+  float: left;
+
+
+}
+div.polaroid {
+  width: 330px;
+  
+  
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  text-align: center;
+  margin-left: 50px;
+  margin-right: 15px;
+  margin-bottom: 50px;
+  
+  align-content: center;
+  float: left;
+}
+
+.paginationBttns {
+  width: 100%;
+  height: 40px;
+  list-style: none;
+  display: flex;
+  justify-content: center;
+}
+
+.paginationBttns a {
+  padding: 10px;
+  margin: 8px;
+  border-radius: 5px;
+  border: 1px solid #E7AB3C;
+  color: #E7AB3C;
+  cursor: pointer;
+}
+
+.paginationBttns a:hover {
+  color: white;
+  background-color: #E7AB3C;
+}
+
+.paginationActive a {
+  color: white;
+  background-color: #E7AB3C;
+}
+
+.paginationDisabled a {
+  color: grey;
+  background-color: grey;
+}
+
+
+
+
+ div .product-item{
+  border-style: solid;
+  border-radius: 4px;
+  border-color: orange;
+}
+
+
+div.container {
+  padding: 5px;
+  
+}
+.product-price1 {
+	color: green;
+	font-size: 20px;
+	font-weight: 10px;
+}
+
+.product-price1 span {
+	font-size: 18px;
+	font-weight: 10px;
+	color: red;
+	text-decoration: line-through;
+}
+
+.thirteen h1 {
+  position:relative; font-size:20px; font-weight:700;margin-bottom: 25px !important; 
+  
+  
+  letter-spacing:0px; margin-top: 10px !important; text-transform:uppercase; width:450px; text-align:center; margin:auto; white-space:nowrap; border:2px solid #222;padding:5px 11px 3px 11px;
+}
+.thirteen h1:before, .thirteen h1:after {
+  background-color: #e7ab3c;
+  position:absolute; 
+  content: '';
+  height: 15px;
+
+  width: 15px; border-radius:100%;
+  bottom: 12px;
+}
+.thirteen h1:before {
+ left:-20px;
+}
+.thirteen h1:after {
+ right:-20px;
+}
+
+.thirteenA h1{
+  position:relative; margin-bottom: 20px !important; font-size:2vw; font-weight:auto;  
+  margin-top: 10px !important; text-transform:uppercase; width:40%; text-align:center; margin:auto; 
+  color: white; font-family: Cursive; background-color: #E7AB3C; white-space:nowrap; border:4px solid #222;padding:5px 5px 3px 11px;
+}
+.thirteenA h1:before, .thirteenA h1:after {
+  background-color: white;
+  position:absolute; 
+  content: '';
+  height: 30px;
+
+  font-style: bold;
+  width: 5%; border-radius:100%;
+  bottom: 12px;
+}
+.thirteenA h1:before {
+  left:-20px;
+}
+.thirteenA h1:after {
+  right:-20px;
+}
+
+
+.thirteenC h1{
+
+  position:relative; margin-bottom: 20px !important; font-size:2vw; font-weight:auto;  
+  letter-spacing:0px; margin-top: 10px !important; text-transform:uppercase; width:50%; 
+  text-align:center; margin:auto; color: black; font-family: Cursive; background-color: #E7AB3C; white-space:nowrap; border:4px solid #222;padding:5px 8px 3px 8px;
+}
+.thirteenC h1:before, .thirteenC h1:after {
+  background-color: white;
+  position:absolute; 
+  content: '';
+  height: 30px;
+  
+
+  width: 3%; border-radius:100%;
+  bottom: 12px;
+}
+.thirteenC h1:before {
+  left:-20px;
+}
+.thirteenC h1:after {
+  right:-20px;
+}
+
+.div_r{ 
+  text-transform:uppercase;
+  padding-top:10px ;
+  font-style: italic;
+  border:4px solid #222 !important;
+  background-color: #e7ab3c !important;
+  border-radius: 15px 50px !important;
+  
+
+}
+
+/* line 3, ../../SAIFUL/Running_project/250 eCommerce_HTML/250 eCommerce_HTML/250 eCommerce_HTML/assets/scss/_headerMenu.scss */
+.header-area .header-top {
+  padding: 13px 170px;
+}
+
+@media only screen and (min-width: 1200px) and (max-width: 1600px) {
+  /* line 3, ../../SAIFUL/Running_project/250 eCommerce_HTML/250 eCommerce_HTML/250 eCommerce_HTML/assets/scss/_headerMenu.scss */
+  .header-area .header-top {
+    padding: 13px 10px;
+  }
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+  /* line 3, ../../SAIFUL/Running_project/250 eCommerce_HTML/250 eCommerce_HTML/250 eCommerce_HTML/assets/scss/_headerMenu.scss */
+  .header-area .header-top {
+    padding: 13px 10px;
+  }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  /* line 3, ../../SAIFUL/Running_project/250 eCommerce_HTML/250 eCommerce_HTML/250 eCommerce_HTML/assets/scss/_headerMenu.scss */
+  .header-area .header-top {
+    padding: 13px 50px;
+  }
+}
+
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+  /* line 3, ../../SAIFUL/Running_project/250 eCommerce_HTML/250 eCommerce_HTML/250 eCommerce_HTML/assets/scss/_headerMenu.scss */
+  .header-area .header-top {
+    padding: 13px 20px;
+  }
+}
+
+@media (max-width: 767px) {
+  /* line 3, ../../SAIFUL/Running_project/250 eCommerce_HTML/250 eCommerce_HTML/250 eCommerce_HTML/assets/scss/_headerMenu.scss */
+  .header-area .header-top {
+    padding: 13px 20px;
+  }
+}
+
+/* line 21, ../../SAIFUL/Running_project/250 eCommerce_HTML/250 eCommerce_HTML/250 eCommerce_HTML/assets/scss/_headerMenu.scss */
+.header-area .header-bottom {
+  padding: 0px 170px;
+}
+
+@media only screen and (min-width: 1200px) and (max-width: 1600px) {
+  /* line 21, ../../SAIFUL/Running_project/250 eCommerce_HTML/250 eCommerce_HTML/250 eCommerce_HTML/assets/scss/_headerMenu.scss */
+  .header-area .header-bottom {
+    padding: 0px 10px;
+  }
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+  /* line 21, ../../SAIFUL/Running_project/250 eCommerce_HTML/250 eCommerce_HTML/250 eCommerce_HTML/assets/scss/_headerMenu.scss */
+  .header-area .header-bottom {
+    padding: 0px 10px;
+  }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  /* line 21, ../../SAIFUL/Running_project/250 eCommerce_HTML/250 eCommerce_HTML/250 eCommerce_HTML/assets/scss/_headerMenu.scss */
+  .header-area .header-bottom {
+    padding: 12px 25px;
+  }
+}
+
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+  /* line 21, ../../SAIFUL/Running_project/250 eCommerce_HTML/250 eCommerce_HTML/250 eCommerce_HTML/assets/scss/_headerMenu.scss */
+  .header-area .header-bottom {
+    padding: 22px 25px;
+  }
+}
+
+@media (max-width: 767px) {
+  /* line 21, ../../SAIFUL/Running_project/250 eCommerce_HTML/250 eCommerce_HTML/250 eCommerce_HTML/assets/scss/_headerMenu.scss */
+  .header-area .header-bottom {
+    padding: 22px 25px;
+  }
+}
+
+/* line 47, ../../SAIFUL/Running_project/250 eCommerce_HTML/250 eCommerce_HTML/250 eCommerce_HTML/assets/scss/_headerMenu.scss */
+.header-area .header-top .header-info-left .contact-now {
+  padding-left: 30px;
+  padding-top: 10px;
+}
+
+/* line 50, ../../SAIFUL/Running_project/250 eCommerce_HTML/250 eCommerce_HTML/250 eCommerce_HTML/assets/scss/_headerMenu.scss */
+.header-area .header-top .header-info-left .contact-now li {
+  color: #fff;
+  font-size: 14px;
+  text-transform: capitalize;
+}
+
+/* line 59, ../../SAIFUL/Running_project/250 eCommerce_HTML/250 eCommerce_HTML/250 eCommerce_HTML/assets/scss/_headerMenu.scss */
+.header-area .header-top .header-info-right ul li {
+  display: inline-block;
+}
+
+/* line 61, ../../SAIFUL/Running_project/250 eCommerce_HTML/250 eCommerce_HTML/250 eCommerce_HTML/assets/scss/_headerMenu.scss */
+.header-area .header-top .header-info-right ul li a {
+  padding-left: 36px;
+  font-size: 14px;
+  text-transform: capitalize;
+  color: #fff;
+}
+
+/* line 79, ../../SAIFUL/Running_project/250 eCommerce_HTML/250 eCommerce_HTML/250 eCommerce_HTML/assets/scss/_headerMenu.scss */
+.header-bottom .main-menu ul li {
+  display: inline-block;
+  position: relative;
+  z-index: 1;
+}
+
+/* line 84, ../../SAIFUL/Running_project/250 eCommerce_HTML/250 eCommerce_HTML/250 eCommerce_HTML/assets/scss/_headerMenu.scss */
+.header-bottom .main-menu ul li a {
+  font-size: 16px;
+  color: #000000;
+  display: inline-block;
+  text-transform: capitalize;
+  padding: 39px 18px;
+  display: block;
+  font-size: 14px;
+  -webkit-transition: all 0.3s ease-out 0s;
+  -moz-transition: all 0.3s ease-out 0s;
+  -ms-transition: all 0.3s ease-out 0s;
+  -o-transition: all 0.3s ease-out 0s;
+  transition: all 0.3s ease-out 0s;
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+  /* line 84, ../../SAIFUL/Running_project/250 eCommerce_HTML/250 eCommerce_HTML/250 eCommerce_HTML/assets/scss/_headerMenu.scss */
+  .header-bottom .main-menu ul li a {
+    padding: 39px 15px;
+  }
+}
+
+@media (min-width: 1200px) and (max-width: 1400px) {
+  /* line 84, ../../SAIFUL/Running_project/250 eCommerce_HTML/250 eCommerce_HTML/250 eCommerce_HTML/assets/scss/_headerMenu.scss */
+  .header-bottom .main-menu ul li a {
+    padding: 39px 13px;
+  }
+}
+
+/* line 102, ../../SAIFUL/Running_project/250 eCommerce_HTML/250 eCommerce_HTML/250 eCommerce_HTML/assets/scss/_headerMenu.scss */
+.header-bottom .main-menu ul li:hover > a {
+  color: #ff003c;
+}
+
+/* line 106, ../../SAIFUL/Running_project/250 eCommerce_HTML/250 eCommerce_HTML/250 eCommerce_HTML/assets/scss/_headerMenu.scss */
+.header-bottom .main-menu ul li.hot {
+  position: relative;
+}
+
+/* line 108, ../../SAIFUL/Running_project/250 eCommerce_HTML/250 eCommerce_HTML/250 eCommerce_HTML/assets/scss/_headerMenu.scss */
+.header-bottom .main-menu ul li.hot::before {
+  position: absolute;
+  content: "HOT";
+  background: #ff003c;
+  color: #fff;
+  text-align: center;
+  border-radius: 8px;
+  font-size: 10px;
+  top: 19px;
+  right: -13px;
+  -webkit-transition: all 0.2s ease-out 0s;
+  -moz-transition: all 0.2s ease-out 0s;
+  -ms-transition: all 0.2s ease-out 0s;
+  -o-transition: all 0.2s ease-out 0s;
+  transition: all 0.2s ease-out 0s;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+  padding: 3px 8px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-weight: 500;
+}
+
+/* line 129, ../../SAIFUL/Running_project/250 eCommerce_HTML/250 eCommerce_HTML/250 eCommerce_HTML/assets/scss/_headerMenu.scss */
+.header-bottom .main-menu ul ul.submenu {
+  position: absolute;
+  width: 170px;
+  background: #fff;
+  left: 0;
+  top: 90%;
+  visibility: hidden;
+  opacity: 0;
+  box-shadow: 0 0 10px 3px rgba(0, 0, 0, 0.05);
+  padding: 17px 0;
+  border-top: 5px solid #ff003c;
+  -webkit-transition: all 0.2s ease-out 0s;
+  -moz-transition: all 0.2s ease-out 0s;
+  -ms-transition: all 0.2s ease-out 0s;
+  -o-transition: all 0.2s ease-out 0s;
+  transition: all 0.2s ease-out 0s;
+}
+
+/* line 141, ../../SAIFUL/Running_project/250 eCommerce_HTML/250 eCommerce_HTML/250 eCommerce_HTML/assets/scss/_headerMenu.scss */
+.header-bottom .main-menu ul ul.submenu > li {
+  margin-left: 7px;
+  display: block;
+}
+
+/* line 144, ../../SAIFUL/Running_project/250 eCommerce_HTML/250 eCommerce_HTML/250 eCommerce_HTML/assets/scss/_headerMenu.scss */
+.header-bottom .main-menu ul ul.submenu > li > a {
+  padding: 6px 10px !important;
+  font-size: 14px;
+  color: #0b1c39;
+  text-transform: capitalize;
+}
+
+/* line 149, ../../SAIFUL/Running_project/250 eCommerce_HTML/250 eCommerce_HTML/250 eCommerce_HTML/assets/scss/_headerMenu.scss */
+.header-bottom .main-menu ul ul.submenu > li > a:hover {
+  color: #ff003c;
+  background: none;
+}
+
+/* line 161, ../../SAIFUL/Running_project/250 eCommerce_HTML/250 eCommerce_HTML/250 eCommerce_HTML/assets/scss/_headerMenu.scss */
+.header-bottom .header-right {
+  display: flex !important;
+}
+
+/* line 163, ../../SAIFUL/Running_project/250 eCommerce_HTML/250 eCommerce_HTML/250 eCommerce_HTML/assets/scss/_headerMenu.scss */
+.header-bottom .header-right li {
+  padding-left: 20px;
+}
+
+@media (min-width: 1200px) and (max-width: 1400px) {
+  /* line 163, ../../SAIFUL/Running_project/250 eCommerce_HTML/250 eCommerce_HTML/250 eCommerce_HTML/assets/scss/_headerMenu.scss */
+  .header-bottom .header-right li {
+    padding-left: 14px;
+  }
+}
+
+/* line 169, ../../SAIFUL/Running_project/250 eCommerce_HTML/250 eCommerce_HTML/250 eCommerce_HTML/assets/scss/_headerMenu.scss */
+.header-bottom .header-right .form-box {
+  position: relative;
+  width: 85%;
+}
+
+/* line 172, ../../SAIFUL/Running_project/250 eCommerce_HTML/250 eCommerce_HTML/250 eCommerce_HTML/assets/scss/_headerMenu.scss */
+.header-bottom .header-right .form-box input {
+  border: 1px solid #eeeeee;
+  border-radius: 30px;
+  padding: 10px 20px;
+  width: 100%;
+}
+
+/* line 179, ../../SAIFUL/Running_project/250 eCommerce_HTML/250 eCommerce_HTML/250 eCommerce_HTML/assets/scss/_headerMenu.scss */
+.header-bottom .header-right .form-box .search-icon {
+  position: absolute;
+  top: 12px;
+  right: 17px;
+}
+
+/* line 183, ../../SAIFUL/Running_project/250 eCommerce_HTML/250 eCommerce_HTML/250 eCommerce_HTML/assets/scss/_headerMenu.scss */
+.header-bottom .header-right .form-box .search-icon i {
+  color: #6c6a6a;
+  cursor: pointer;
+}
+
+/* line 190, ../../SAIFUL/Running_project/250 eCommerce_HTML/250 eCommerce_HTML/250 eCommerce_HTML/assets/scss/_headerMenu.scss */
+.header-bottom .header-right .favorit-items {
+  position: relative;
+}
+
+/* line 192, ../../SAIFUL/Running_project/250 eCommerce_HTML/250 eCommerce_HTML/250 eCommerce_HTML/assets/scss/_headerMenu.scss */
+.header-bottom .header-right .favorit-items::before {
+  position: absolute;
+  content: "02";
+  width: 25px;
+  height: 25px;
+  background: #00b1ff;
+  color: #fff;
+  line-height: 25px;
+  text-align: center;
+  border-radius: 30px;
+  font-size: 12px;
+  top: 0px;
+  right: -6px;
+  -webkit-transition: all 0.2s ease-out 0s;
+  -moz-transition: all 0.2s ease-out 0s;
+  -ms-transition: all 0.2s ease-out 0s;
+  -o-transition: all 0.2s ease-out 0s;
+  transition: all 0.2s ease-out 0s;
+  box-shadow: 0 2px 5pxrgba 0,0,0,0.3;
+}
+
+/* line 208, ../../SAIFUL/Running_project/250 eCommerce_HTML/250 eCommerce_HTML/250 eCommerce_HTML/assets/scss/_headerMenu.scss */
+.header-bottom .header-right .favorit-items i {
+  width: 50px;
+  height: 50px;
+  line-height: 50px;
+  text-align: center;
+  border-radius: 50%;
+  border: 1px solid #eeeeee;
+  color: #4e4e4e;
+  font-size: 19px;
+  cursor: pointer;
+}
+
+/* line 222, ../../SAIFUL/Running_project/250 eCommerce_HTML/250 eCommerce_HTML/250 eCommerce_HTML/assets/scss/_headerMenu.scss */
+.header-bottom .header-right .shopping-card {
+  position: relative;
+}
+
+/* line 224, ../../SAIFUL/Running_project/250 eCommerce_HTML/250 eCommerce_HTML/250 eCommerce_HTML/assets/scss/_headerMenu.scss */
+.header-bottom .header-right .shopping-card::before {
+  position: absolute;
+  content: "02";
+  width: 25px;
+  height: 25px;
+  background: #00b1ff;
+  color: #fff;
+  line-height: 25px;
+  text-align: center;
+  border-radius: 30px;
+  font-size: 12px;
+  top: 0px;
+  right: -6px;
+  -webkit-transition: all 0.2s ease-out 0s;
+  -moz-transition: all 0.2s ease-out 0s;
+  -ms-transition: all 0.2s ease-out 0s;
+  -o-transition: all 0.2s ease-out 0s;
+  transition: all 0.2s ease-out 0s;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+}
+
+/* line 240, ../../SAIFUL/Running_project/250 eCommerce_HTML/250 eCommerce_HTML/250 eCommerce_HTML/assets/scss/_headerMenu.scss */
+.header-bottom .header-right .shopping-card i {
+  width: 50px;
+  height: 50px;
+  line-height: 50px;
+  text-align: center;
+  border-radius: 50%;
+  border: 1px solid #eeeeee;
+  color: #4e4e4e;
+  font-size: 14px;
+  cursor: pointer;
+}
+
+@media (max-width: 767px) {
+  /* line 259, ../../SAIFUL/Running_project/250 eCommerce_HTML/250 eCommerce_HTML/250 eCommerce_HTML/assets/scss/_headerMenu.scss */
+  .header-bottom .fix-card {
+    position: absolute;
+    top: 12px;
+    right: 85px;
+  }
+}
+
+/* line 270, ../../SAIFUL/Running_project/250 eCommerce_HTML/250 eCommerce_HTML/250 eCommerce_HTML/assets/scss/_headerMenu.scss */
+.header-area .header-top .header-info-right .header-social a i {
+  -webkit-transition: all 0.4s ease-out 0s;
+  -moz-transition: all 0.4s ease-out 0s;
+  -ms-transition: all 0.4s ease-out 0s;
+  -o-transition: all 0.4s ease-out 0s;
+  transition: all 0.4s ease-out 0s;
+  transform: rotateY(0deg);
+  -webkit-transform: rotateY(0deg);
+  -moz-transform: rotateY(0deg);
+  -ms-transform: rotateY(0deg);
+  -o-transform: rotateY(0deg);
+}
+
+/* line 278, ../../SAIFUL/Running_project/250 eCommerce_HTML/250 eCommerce_HTML/250 eCommerce_HTML/assets/scss/_headerMenu.scss */
+.header-area .header-top .header-info-right .header-social a:hover i {
+  transform: rotateY(180deg);
+  -webkit-transform: rotateY(180deg);
+  -moz-transform: rotateY(180deg);
+  -ms-transform: rotateY(180deg);
+  -o-transform: rotateY(180deg);
+}
+
+/* line 287, ../../SAIFUL/Running_project/250 eCommerce_HTML/250 eCommerce_HTML/250 eCommerce_HTML/assets/scss/_headerMenu.scss */
+.main-header ul > li:hover > ul.submenu {
+  visibility: visible;
+  opacity: 1;
+  top: 100%;
+}
+
+/* line 293, ../../SAIFUL/Running_project/250 eCommerce_HTML/250 eCommerce_HTML/250 eCommerce_HTML/assets/scss/_headerMenu.scss */
+.top-bg {
+  background: #000000;
+}
+
+/* line 300, ../../SAIFUL/Running_project/250 eCommerce_HTML/250 eCommerce_HTML/250 eCommerce_HTML/assets/scss/_headerMenu.scss */
+.header-sticky ul li a {
+  padding: 10px 19px;
+}
+
+/* line 308, ../../SAIFUL/Running_project/250 eCommerce_HTML/250 eCommerce_HTML/250 eCommerce_HTML/assets/scss/_headerMenu.scss */
+.slicknav_menu .slicknav_icon-bar {
+  background-color: #ff003c !important;
+}
+
+/* line 311, ../../SAIFUL/Running_project/250 eCommerce_HTML/250 eCommerce_HTML/250 eCommerce_HTML/assets/scss/_headerMenu.scss */
+.slicknav_nav {
+  margin-top: 0px;
+}
+
+/* line 317, ../../SAIFUL/Running_project/250 eCommerce_HTML/250 eCommerce_HTML/250 eCommerce_HTML/assets/scss/_headerMenu.scss */
+.header-sticky.sticky-bar.sticky .header-btn .get-btn {
+  padding: 20px 20px;
+}
+
+/* line 321, ../../SAIFUL/Running_project/250 eCommerce_HTML/250 eCommerce_HTML/250 eCommerce_HTML/assets/scss/_headerMenu.scss */
+.header-area .slicknav_btn {
+  top: -30px;
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  /* line 321, ../../SAIFUL/Running_project/250 eCommerce_HTML/250 eCommerce_HTML/250 eCommerce_HTML/assets/scss/_headerMenu.scss */
+  .header-area .slicknav_btn {
+    top: -40px;
+  }
+}
+
+/* **********************************tedt******** */
