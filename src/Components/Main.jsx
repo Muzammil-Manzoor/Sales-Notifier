@@ -24,6 +24,7 @@ import Footer from './Footer';
 import Map from './Map';
 import Toprated from './Toprated';
 import { recognition } from "../API/voicerecognition";
+import Testing from './Testing';
 
 
 const Main = () => {
@@ -112,6 +113,8 @@ const Main = () => {
 
                 {/* Nav bar */}
                 <Route exact path='/activate/:uid/:token' component={Activate} />
+                
+                <Route exact path='/google44b0973cac63df01.html' component={Testing} />
                 <Route exact path='/password/reset/confirm/:uid/:token' component={Confirmpassword} />
 
 
