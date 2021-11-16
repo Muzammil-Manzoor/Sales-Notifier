@@ -25,7 +25,7 @@ import Map from './Map';
 import Toprated from './Toprated';
 import { recognition } from "../API/voicerecognition";
 import Testing from './Testing';
-import Privacy_policy from './privacy_policy';
+import Privacy_policy from './Privacy_policy';
 
 
 const Main = () => {
