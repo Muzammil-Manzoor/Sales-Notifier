@@ -1,37 +1,15 @@
 import React from 'react';
-import Footer from './Footer';
-import Header from './Header';
 
 
 const Privacy_policy=()=>
 {
-    const size={
-        padding: '80px 0px',
-        // minHeight:' 0px',
-		// padding: '60px 0 40px 0'
-
-    }
-    const img={
-        width:' 300px',
-		height: '300px'
-
-    }
-    const white={
-		backgroundColor: 'white'
-	}
-	
-    // .right{
-	// 	float: right;
-	// }
-	const h1={
-		color: 'white'
-	}
+    
 	
 
     return (
         <>
 		
-<h2 style="text-align: center;"><b>TERMS AND CONDITIONS</b></h2>
+<h2><b>TERMS AND CONDITIONS</b></h2>
 <p>Last updated: 2021-11-16</p>
 <p>1. <b>Introduction</b></p>
 <p>Welcome to <b>Sales Notifier</b> (“Company”, “we”, “our”, “us”)!</p>
@@ -120,7 +98,7 @@ const Privacy_policy=()=>
 <p>BY USING SERVICE OR OTHER SERVICES PROVIDED BY US, YOU ACKNOWLEDGE THAT YOU HAVE READ THESE TERMS OF SERVICE AND AGREE TO BE BOUND BY THEM.</p>
 <p>22. <b>Contact Us</b></p>
 <p>Please send your feedback, comments, requests for technical support by email: <b>sales.notifier1@gmail.com</b>.</p>
-<p style="margin-top: 5em; font-size: 0.7em;">These <a href="https://policymaker.io/terms-and-conditions/">Terms of Service</a> were created for <b>https://sales-notifier.herokuapp.com/</b> by <a href="https://policymaker.io">PolicyMaker.io</a> on 2021-11-16.</p>
+<p>These <a href="https://policymaker.io/terms-and-conditions/">Terms of Service</a> were created for <b>https://sales-notifier.herokuapp.com/</b> by <a href="https://policymaker.io">PolicyMaker.io</a> on 2021-11-16.</p>
 
         </>
     )
