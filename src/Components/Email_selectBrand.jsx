@@ -19,12 +19,12 @@ const Email_selectBrand = () => {
     const handleCheck = (e) => {
         if (e.target.checked) {
             console.warn(brand.length)
-            if (brand.length < 5) {
+            if (brand.length < 3) {
                 setBrand([...brand, e.target.value])
 
             }
             else {
-                alert("Select 5 brands")
+                alert("Select 3 brands")
                 e.target.checked = false
             }
         }
@@ -87,7 +87,7 @@ const Email_selectBrand = () => {
                         <h2 class="h2" class="font-effect-neon">Select your favorite Brands from below List</h2>
 
                     </div>
-                                <div class="row">
+                    <div class="row">
                                     <div class="col-sm">
                                         <div className="shake-slow">
                                             <label className="option_item1">
@@ -104,7 +104,7 @@ const Email_selectBrand = () => {
 
                                         <div className="shake-slow">
                                             <label className="option_item1">
-                                                <input type="checkbox" className="checkbox" value="Junaid Jamshad" onChange={handleCheck} />
+                                                <input type="checkbox" className="checkbox" value="JUNAIDJAMSHED" onChange={handleCheck} />
                                                 <div className="option_inner facebook">
                                                     <div className="tickmark"></div>
                                                     <div className="icon"><i className="fas fa-tshirt"></i></div>
@@ -132,7 +132,7 @@ const Email_selectBrand = () => {
 
                                         <div className="shake-slow">
                                             <label className="option_item1">
-                                                <input type="checkbox" className="checkbox" value="SANA SAFINAZ" onChange={handleCheck} />
+                                                <input type="checkbox" className="checkbox" value="SANASAFINAZ" onChange={handleCheck} />
                                                 <div className="option_inner instagram">
                                                     <div className="tickmark"></div>
                                                     <div className="icon"><i className="fas fa-tshirt"></i></div>
@@ -141,19 +141,7 @@ const Email_selectBrand = () => {
                                         </div>
                                     </div>
 
-                                    <div class="col-sm">
-
-
-                                        <div className="shake-slow">
-                                            <label className="option_item1">
-                                                <input type="checkbox" className="checkbox" value="NIKE" onChange={handleCheck} />
-                                                <div className="option_inner linkedin">
-                                                    <div className="tickmark"></div>
-                                                    <div className="icon"><i className="fas fa-tshirt"></i></div>
-                                                    <div className="name"><span style={{ 'fontWeight': 'bold' }}> Nike</span></div>      </div>
-                                            </label>
-                                        </div>
-                                    </div>
+                              
 
                                     <div class="col-sm">
 
@@ -181,30 +169,9 @@ const Email_selectBrand = () => {
                                         </div>
                                     </div>
 
-                                    <div class="col-sm">
+                                
 
-                                        <div className="shake-slow">
-                                            <label className="option_item1">
-                                                <input type="checkbox" className="checkbox" value="BONONZA" onChange={handleCheck} />
-                                                <div className="option_inner reddit">
-                                                    <div className="tickmark"></div>
-                                                    <div className="icon"><i className="fas fa-tshirt"></i></div>
-                                                    <div className="name"><span style={{ 'fontWeight': 'bold' }}> Bonoza</span></div>      </div>
-                                            </label>
-                                        </div>
-                                    </div>
-
-                                    <div class="col-sm">
-                                        <div className="shake-slow">
-                                            <label className="option_item1">
-                                                <input type="checkbox" className="checkbox" value="ESTORE" onChange={handleCheck} />
-                                                <div className="option_inner google">
-                                                    <div className="tickmark"></div>
-                                                    <div className="icon"><i className="fas fa-tshirt"></i></div>
-                                                    <div className="name"><span style={{ 'fontWeight': 'bold' }}> Estore</span></div>      </div>
-                                            </label>
-                                        </div>
-                                    </div>
+                                  
 
                                     <div class="col-sm">
 
@@ -219,33 +186,8 @@ const Email_selectBrand = () => {
                                         </div>
                                     </div>
 
-                                    <div class="col-sm">
 
-                                        <div className="shake-slow">
-
-                                            <label className="option_item1">
-                                                <input type="checkbox" className="checkbox" value="NDURE" onChange={handleCheck} />
-                                                <div className="option_inner linkedin">
-                                                    <div className="tickmark"></div>
-                                                    <div className="icon"><i className="fas fa-tshirt"></i></div>
-                                                    <div className="name"><span style={{ 'fontWeight': 'bold' }}> Ndure</span></div>      </div>
-                                            </label>
-                                        </div>
-                                    </div>
-
-                                    <div class="col-sm">
-
-                                        <div className="shake-slow">
-
-                                            <label className="option_item1">
-                                                <input type="checkbox" className="checkbox" value="CHENONE" onChange={handleCheck} />
-                                                <div className="option_inner whatsapp">
-                                                    <div className="tickmark"></div>
-                                                    <div className="icon"><i className="fas fa-tshirt"></i></div>
-                                                    <div className="name"><span style={{ 'fontWeight': 'bold' }}> Chenone</span></div>      </div>
-                                            </label>
-                                        </div>
-                                    </div>
+                                   
 
 
                                     <div class="col-sm">
@@ -268,7 +210,7 @@ const Email_selectBrand = () => {
                                         <div className="shake-slow">
 
                                             <label className="option_item1">
-                                                <input type="checkbox" className="checkbox" value="BONONZA" onChange={handleCheck} />
+                                                <input type="checkbox" className="checkbox" value="BONANZA" onChange={handleCheck} />
                                                 <div className="option_inner instagram">
                                                     <div className="tickmark"></div>
                                                     <div className="icon"><i className="fas fa-tshirt"></i></div>
@@ -309,19 +251,6 @@ const Email_selectBrand = () => {
                                     </div>
 
 
-                                    <div class="col-sm">
-
-                                        <div className="shake-slow">
-
-                                            <label className="option_item1">
-                                                <input type="checkbox" className="checkbox" value="SAPPHIRE" onChange={handleCheck} />
-                                                <div className="option_inner whatsapp">
-                                                    <div className="tickmark"></div>
-                                                    <div className="icon"><i className="fas fa-tshirt"></i></div>
-                                                    <div className="name"><span style={{ 'fontWeight': 'bold' }}> Sapphire</span></div>      </div>
-                                            </label>
-                                        </div>
-                                    </div>
 
 
                                     <div class="col-sm">
@@ -330,7 +259,7 @@ const Email_selectBrand = () => {
                                         <div className="shake-slow">
 
                                             <label className="option_item1">
-                                                <input type="checkbox" className="checkbox" value="MARIA.B" onChange={handleCheck} />
+                                                <input type="checkbox" className="checkbox" value="MARIAB" onChange={handleCheck} />
                                                 <div className="option_inner quora">
                                                     <div className="tickmark"></div>
                                                     <div className="icon"><i className="fas fa-tshirt"></i></div>
@@ -344,7 +273,7 @@ const Email_selectBrand = () => {
                                         <div className="shake-slow">
 
                                             <label className="option_item1">
-                                                <input type="checkbox" className="checkbox" value="ALKARAM STUDIO" onChange={handleCheck} />
+                                                <input type="checkbox" className="checkbox" value="ALKARAMSTUDIO" onChange={handleCheck} />
                                                 <div className="option_inner google">
                                                     <div className="tickmark"></div>
                                                     <div className="icon"><i className="fas fa-tshirt"></i></div>
@@ -367,20 +296,7 @@ const Email_selectBrand = () => {
                                         </div>
                                     </div>
 
-                                    <div class="col-sm">
-
-                                        <div className="shake-slow">
-
-                                            <label className="option_item1">
-                                                <input type="checkbox" className="checkbox" value="HUSH PUPPIES" onChange={handleCheck} />
-                                                <div className="option_inner quora">
-                                                    <div className="tickmark"></div>
-                                                    <div className="icon"><i className="fas fa-tshirt"></i></div>
-                                                    <div className="name"><span style={{ 'fontWeight': 'bold' }}> Hush Pupppies</span></div>      </div>
-                                            </label>
-                                        </div>
-                                    </div>
-
+                                   
 
                                     <div class="col-sm">
 
@@ -396,46 +312,10 @@ const Email_selectBrand = () => {
                                         </div>
                                     </div>
 
-                                    <div class="col-sm">
+                                    
 
-                                        <div className="shake-slow">
+                                 
 
-                                            <label className="option_item1">
-                                                <input type="checkbox" className="checkbox" value="OUTFITTER" onChange={handleCheck} />
-                                                <div className="option_inner quora">
-                                                    <div className="tickmark"></div>
-                                                    <div className="icon"><i className="fas fa-tshirt"></i></div>
-                                                    <div className="name"><span style={{ 'fontWeight': 'bold' }}> Outfitter</span></div>      </div>
-                                            </label>
-                                        </div>
-                                    </div>
-
-                                    <div class="col-sm">
-
-                                        <div className="shake-slow">
-
-                                            <label className="option_item1">
-                                                <input type="checkbox" className="checkbox" value="SILKAVENUE" onChange={handleCheck} />
-                                                <div className="option_inner twitter">
-                                                    <div className="tickmark"></div>
-                                                    <div className="icon"><i className="fas fa-tshirt"></i></div>
-                                                    <div className="name"><span style={{ 'fontWeight': 'bold' }}> Silk Avenue</span></div>      </div>
-                                            </label>
-                                        </div>
-                                    </div>
-
-                                    <div class="col-sm">
-
-                                        <div className="shake-slow">
-                                            <label className="option_item1">
-                                                <input type="checkbox" className="checkbox" value="SOLOTO" onChange={handleCheck} />
-                                                <div className="option_inner whatsapp">
-                                                    <div className="tickmark"></div>
-                                                    <div className="icon"><i className="fas fa-tshirt"></i></div>
-                                                    <div className="name"><span style={{ 'fontWeight': 'bold' }}> Soloto</span></div>      </div>
-                                            </label>
-                                        </div>
-                                    </div>
 
                                 </div>
                             </div>

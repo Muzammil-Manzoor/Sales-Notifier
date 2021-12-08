@@ -54,6 +54,7 @@ const Gender = props => {
         if (response.status == 200) {
             console.warn("************************Successful****************")
             setSubscribe(false)
+
         }
 
 
@@ -106,8 +107,8 @@ const Gender = props => {
                     subscribe==false ? 
                     <input style={{backgroundColor:"#E7AB3C"}} type="submit" className="btn btn-info" value="Subscribe"></input>
                 :
-                <input style={{backgroundColor:"#E7AB3C", color:"red"}} onClick={unsubscribe} className="btn btn-info" value="Unsubscribe"></input>
-
+                <input type="button" style={{backgroundColor:"#E7AB3C", color:"red"}} onClick={unsubscribe} className="btn btn-info" value="Unsubscribe"></input>
+                
                 }
                             <ToastContainer/>
 

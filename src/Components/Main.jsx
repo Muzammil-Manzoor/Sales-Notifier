@@ -70,7 +70,7 @@ const Main = () => {
             else if (command.includes("Top rated") || command.includes("Top rate")) {
                 history.push("/toprated");
             }
-            
+
         } else if (
             command.includes("stop listening") ||
             command.includes("stop recognition") ||
@@ -110,12 +110,15 @@ const Main = () => {
                     }} />
 
                 </Route>
+                <Route exact path='/home'>
+                    <Protected component={Home} />
+                </Route>
 
 
 
                 {/* Nav bar */}
                 <Route exact path='/activate/:uid/:token' component={Activate} />
-                
+
                 <Route exact path='/google44b0973cac63df01.html' component={Testing} />
                 <Route exact path='/password/reset/confirm/:uid/:token' component={Confirmpassword} />
                 <Route exact path='/privacy' component={Privacy_policy} />
@@ -134,9 +137,6 @@ const Main = () => {
                 <Route exact path='/register' component={Register} />
                 <Route exact path='/selectbrand' component={SelectBrand} />
 
-                <Route exact path='/home'>
-                    <Protected component={Home} />
-                </Route>
 
 
                 <Route exact path='/about'>
@@ -206,6 +206,11 @@ const Main = () => {
                 <Route exact path='/borjan'>
                     <Protected component={() => {
                         return <Gender name="Borjan" />
+                    }} /></Route>
+
+                 <Route exact path='/Beechtree'>
+                     <Protected component={() => {
+                        return <Gender_product name="female" />
                     }} /></Route>
 
 

@@ -139,6 +139,7 @@ const Login = () => {
                                 <div style={{display: 'flex',  justifyContent:'center', alignItems:'center',background:'#E7AB3C'}}>
        
                                  <GoogleLogin
+                                 
                                  clientId="243160502036-brd7mg856f8leslkgl0io7g23fq3hsvk.apps.googleusercontent.com"
                                  onSuccess={responseGoogle}
                                  onFailure={responseGoogle}
